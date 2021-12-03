@@ -1,2 +1,33 @@
-baseURL = "https://brekkywrap.com/"
+baseURL = "/"
 languageCode = "en-us"
+languageLang = "en"
+title = "Brekky Wrap"
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  title = 'Return home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  identifier = 'faq'
+  name = 'FAQ'
+  title = 'Frequently Asked Questions'
+  url = '/faq/'
+  weight = 2
+[[menu.main]]
+  identifier = 'archive'
+  name = 'Previous issues'
+  title = 'View previous issues'
+  url = '/archive/'
+  weight = 3
+[[menu.main]]
+  identifier = 'rewards'
+  name = 'Get free stuff 🎉'
+  title = 'Refer a friend for rewards'
+  url = '/rewards/'
+  weight = 4
+[params]
+  Description = "An easily digestible summary of the latest market, economic, political and tech news from Australia and beyond. Delivered daily, Monday to Friday, for free."
+[permalinks]
+  newsletter = '/:year/:title/'
