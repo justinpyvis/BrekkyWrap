@@ -36,3 +36,5 @@ disableKinds = ["taxonomyTerm"]
     isHTML = true
     mediaType = 'text/html'
     path = 'email'
+[markup.goldmark.renderer]
+unsafe= true

@@ -16,7 +16,6 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Author', name: 'author', widget: 'select', options: ["justin", "admin"] }
       - { label: 'Introduction', name: 'intro', widget: 'markdown' }
-      - { label: 'Price table', name: 'markets', widget: 'markdown' }
       - { label: 'Markets', name: 'marketcommentary', widget: 'markdown' }
       - label: "Feature image"
         name: "featureimage"
@@ -27,4 +26,6 @@ collections:
           - {label: "Source", name: "source", widget: "string"}
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
+      - { label: 'Price table', name: 'markets', widget: 'markdown' }
+      - { label: 'First promo section', name: 'promo1', widget: 'markdown' }
 local_backend: true

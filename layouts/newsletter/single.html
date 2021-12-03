@@ -6,14 +6,7 @@
 {{ if gt $newPost 0 }}
 <!-- Load up the current newsletter template -->
 
-<!-- Intro -->
-<p>{{ replace .Params.body2 "\n" "<br>" | safeHTML }}</p>
-<!-- Markets -->
-
-<!-- Food for thought -->
-{{ .Content }}
-
-<!-- Still hungry? / Hungry for more? -->
+{{ partial "newsletter.html" . }}
 
 <!-- End the current newsletter -->
 
