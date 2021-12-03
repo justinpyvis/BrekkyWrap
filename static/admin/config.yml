@@ -9,11 +9,22 @@ collections:
     create: true
     slug: '{{slug}}'
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
-      - { label: 'Author', name: 'author', widget: 'string' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
+      - { label: 'Author', name: 'author', widget: 'select', options: ["justin", "admin"] }
+      - { label: 'Introduction', name: 'intro', widget: 'markdown' }
+      - { label: 'Price table', name: 'markets', widget: 'markdown' }
+      - { label: 'Markets', name: 'marketcommentary', widget: 'markdown' }
+      - label: "Feature image"
+        name: "featureimage"
+        widget: "object"
+        fields:
+          - {label: 'Feature image', name: 'featureimg', widget: 'image', choose_url: true, allow_multiple: false}
+          - {label: "Blurb", name: "blurb", widget: "string"}
+          - {label: "Source", name: "source", widget: "string"}
+      - { label: 'Food for thought', name: 'body', widget: 'markdown' }
+      - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
 local_backend: true

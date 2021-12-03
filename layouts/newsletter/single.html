@@ -1,17 +1,75 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>{{ .Title }}</title>
-  </head>
-  <body>
-    <h1>{{ .Title }}</h1>
-    <p class="date">{{ .Date }}</p>
-    <p class="description">{{ .Params.description }}</p>
-    <article class="content">
-      {{ .Content }}
-    </article>
-  </body>
-</html>
+{{ partial "header.html" . }}
+<section class="section section-intro">
+<!-- Set cut-offs for the previous two layouts -->
+{{ $newPost := div (sub .PublishDate.Unix 1638392461) 86400 }}
+{{ $oldPost := div (sub .PublishDate.Unix 1629507661) 86400 }}
+{{ if gt $newPost 0 }}
+<!-- Load up the current newsletter template -->
+
+<!-- Intro -->
+<p>{{ replace .Params.body2 "\n" "<br>" | safeHTML }}</p>
+<!-- Markets -->
+
+<!-- Food for thought -->
+{{ .Content }}
+
+<!-- Still hungry? / Hungry for more? -->
+
+<!-- End the current newsletter -->
+
+  <!-- Start formatting for the older layouts -->
+{{ else if lt .PublishDate.Unix 1629507661 }}
+<div class="container">
+    <div class="top">
+        <div class="info-content-wide">
+            <div class="post-content">
+              <div class="heading-small">Delivered on <time datetime="{{ .PublishDate.Format "2006-01-02" }} ">{{ .PublishDate.Format "02 Jan 2006" }}</time></div>
+                <h1 class="info-content-title">{{ .Title }}</h1>
+                {{ .Content }}
+  {{ else }}
+  <!-- START EMAIL -->
+  <table width="100%" cellpadding="0" cellspacing="0" border="0">
+
+    <!-- START CARD 1 -->
+    <tr>
+      <td width="100%" valign="top" align="center" style="padding-top: 0px!important; padding-bottom: 18px!important; mso-padding-alt: 0px 0px 18px 0px;">
+        <table width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="wrapper">
+          <tr>
+            <td>
+              <table cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td style="border-radius: 3px; border-bottom: 2px solid #d4d4d4;" class="card-1" width="100%" valign="top" align="center">
+                    <table style="border-radius: 3px;" width="600" cellpadding="0" cellspacing="0" border="0" align="center" class="wrapper" bgcolor="#ffffff">
+                      <tr>
+                        <td align="center">
+                          <table width="600" cellpadding="0" cellspacing="0" border="0" class="container">
+
+                                                    <tr>
+                                                      <td class="td-padding" align="center" style="font-family:'Open Sans', Helvetica, Arial, sans-serif; color: #212121!important;font-weight: 700; font-size: 32px; line-height: 36px; padding-top: 18px; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 18px 18px 0px 18px;text-align: center;">{{ .Title }}</td>
+                                                    </tr>
+                                                    <tr>
+                                                    <td class="td-padding" align="center" style="font-family:'Open Sans', Helvetica, Arial, sans-serif; vertical-align: top; color: #738a94; font-size: 12px; letter-spacing: 0.2px; text-transform: uppercase; text-align: center; padding-top: 5px; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 5px 18px 0px 18px;" valign="top">
+
+                            {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;<a href="/authors/{{ $author.slug }}">{{- if $author -}}{{ $author.name }}</a>{{- end -}}&nbsp;–&nbsp;Delivered on {{ .PublishDate.Format "02 Jan 2006" }}
+                                                  </td>
+                                                  </tr>
+                                                    <tr>
+                                                      <td class="td-padding" align="left" style="font-family:'Open Sans', Helvetica, Arial, sans-serif; color: #212121!important; font-size: 16px; line-height: 24px; padding-top: 18px; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 18px!important; mso-line-height-rule: exactly; mso-padding-alt: 18px 18px 18px 18px;">
+{{ .Content }}
+  {{ end }}
+
+
+
+</section>
+{{ if ge $oldPost ">=" 0 }}
+</div>
+</div>
+</div>
+</div>
+<hr>
+<p style="margin-top:1rem">
+<em>{{ .Title }}</em> was brought to you by {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;<a href="/authors/{{ $author.slug }}">{{- if $author -}}{{ $author.name }}</a>{{- end -}}. Forwarded this issue? <a href="/" title="Subscribe">Click here</a> to subscribe.</p>
+{{ else }}
+{{ end }}
+  <!-- End formatting for the older layouts -->
+{{ partial "footer.html" . }}

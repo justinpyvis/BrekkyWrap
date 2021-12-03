@@ -1,0 +1,31 @@
+{
+  "title": "Brekky Wrap",
+  "description": "The latest news from Australia and beyond delivered daily in a delicious wrap, minus the calories.",
+  "logo": "https:/brekkywrap.com/content/images/2021/06/brekky-logo-2.png",
+  "icon": "https:/brekkywrap.com/content/images/2021/06/brekky-icon-3.png",
+  "cover_image": null,
+  "facebook": null,
+  "twitter": "@brekkywrap",
+  "locale": "en",
+  "navigation": [
+    {
+      "label": "Home",
+      "url": "/"
+    }
+  ],
+  "secondary_navigation": [],
+  "meta_title": null,
+  "meta_description": null,
+  "og_image": null,
+  "og_title": null,
+  "og_description": null,
+  "twitter_image": null,
+  "twitter_title": null,
+  "twitter_description": null,
+  "members_support_address": "support@brekkywrap.com",
+  "url": "https:/brekkywrap.com",
+  "ghost_head": null,
+  "ghost_foot": null,
+  "active_timezone": "Asia/Singapore",
+  "default_locale": "en"
+}
