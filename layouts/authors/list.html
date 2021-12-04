@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+<section class="section section-intro">
+    <div class="container">
+        <div class="top">
+            <div class="info-content-wide">
+                <div class="info-content-description">
+                    <h1 class="info-content-title">{{ .Params.name }}</h1>
+                    {{ .Content }}
+                    <p>
+                    <a href="mailto:{{ .Params.email }}">Email</a>
+                    <span> • <a href="{{ .Params.website }}" target="_blank" rel="noopener">Website</a></span>
+                    <span> • <a href="https://twitter.com/{{ .Params.twitter }}" target="_blank" rel="noopener">Twitter</a></span>
+                    <span> • <a href="https://www.linkedin.com/in/{{ .Params.linkedin }}/" target="_blank" rel="noopener">LinkedIn</a></span>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="navigation-mobile">
+    <p class="text-center"><a href="{{ .Site.BaseURL }}" class="button button-small button-secondary">Return home</a></p>
+</div>
+{{ partial "footer.html" . }}

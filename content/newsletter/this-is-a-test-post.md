@@ -182,8 +182,11 @@ promo2: "                            <tr>\r
 
   <tr>\r
 
-  <td align=\"center\"><a href=\"https://brekkywrap.com/?rh_ref={{
-  subscriber.rh_code }}\" target=\"_blank\" style=\"font-size: 14px;
+  <td align=\"center\"><a
+  href=\"mailto:?subject=Check%20this%20out&amp;body=I%27ve%20been%20reading%20\
+  this%20excellent%20free%20daily%20newsletter%2C%20you%20should%20subscribe%20\
+  as%20well!%0A%0Ahttps%3A%2F%2Fbrekkywrap.com%2F%3Frh_ref%3D{{subscriber.rh_co\
+  de}}%2F%3Futm_source%3Demail\" target=\"_blank\" style=\"font-size: 14px;
   font-family: Helvetica, Arial, sans-serif; font-weight: normal; color:
   #ffffff; text-decoration: none; background-color: #234688; border-top: 15px
   solid #234688; border-bottom: 15px solid #234688; border-left: 25px solid
