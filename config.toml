@@ -24,6 +24,8 @@ disableKinds = ["taxonomyTerm"]
   weight = 3
 [params]
   Description = "An easily digestible summary of the latest market, economic, political and tech news from Australia and beyond. Delivered daily, Monday to Friday, for free."
+  timeZone = "Australia/Perth"
+  localTime = true
 [permalinks]
   newsletter = '/:year/:title/'
 [taxonomies]

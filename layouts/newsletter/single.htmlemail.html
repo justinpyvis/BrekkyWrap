@@ -15,6 +15,7 @@
     table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
     img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
     p{margin: 0.7em 0 0.7em 0;}
+    a{color: #565e76;text-decoration: underline;}
     /* RESET STYLES */
     body{margin:0; padding:0;}
     img{border:0; height:auto; line-height:100%; outline:none; text-decoration:none;}
@@ -176,11 +177,11 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 50px;" class="padding-copy">{{ .Title }}</td>
+                                            <td align="center" style="font-size: 30px; line-height: 35px; font-family: Helvetica, Arial, sans-serif; color: #333333; padding-top: 50px;font-weight:700;" class="padding-copy">{{ .Title }}</td>
                                         </tr>
                                         <tr>
                                           <td class="td-padding" align="center" style="border-collapse:collapse;border-spacing:0 !important;font-family:'Open Sans', Helvetica, Arial, sans-serif; vertical-align: top; color: #738a94; font-size: 12px; letter-spacing: 0.2px; text-transform: uppercase; text-align: center; padding-top: 5px; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 5px 18px 0px 18px;" valign="top">
-                                          {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}{{ $author.name }}{{- end -}}&nbsp;–&nbsp;{{ .PublishDate.Format "02 Jan 06" }}&nbsp;–&nbsp;<a href="{{"{{"}} archive_url {{"}}"}}" class="view-online-link" style="text-decoration: none; word-wrap: none; white-space: nowrap; color: #333333;" target="_blank">View online →</a>
+                                          {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}{{ $author.name }}{{- end -}}&nbsp;–&nbsp;{{ ((.Params.date.UTC).AddDate 0 0 1).Format "02 Jan 2006" }}
                                           </td>
                                         </tr>
                                         <!-- Intro -->
@@ -213,7 +214,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">Markets</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Markets</td>
                                         </tr>
                                         <tr>
                                             <td align="center" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">{{ .Params.markets | safeHTML }}
@@ -245,7 +246,7 @@
                         <!-- TITLE SECTION AND COPY -->
                         <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tr>
-                                <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">Food for thought</td>
+                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Food for thought</td>
                             </tr>
                             <tr>
                                 <td>
@@ -286,7 +287,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">Still hungry?</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Still hungry?</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.stillhungry | markdownify }}</td>
@@ -303,7 +304,7 @@
     </tr>
 </table>
 
-<!-- FOOTER -->
+<!-- FOOTER [Exclude this from ConvertKit ]-->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
         <td bgcolor="#ffffff" align="center">
