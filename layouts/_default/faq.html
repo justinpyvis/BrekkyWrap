@@ -1,0 +1,19 @@
+{{ partial "header.html" . }}
+<section class="section section-intro">
+    <div class="container">
+        <div class="top">
+            <div class="info-content-wide">
+                <div class="info-content-description">
+                    <h1 class="info-content-title">{{ .Title }}</h1>
+                    {{ .Content }}
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="navigation-mobile">
+    <p class="text-center"><a href="{{ .Site.BaseURL }}" class="button button-small button-secondary">Return home</a></p>
+</div>
+{{ partial "footer.html" . }}

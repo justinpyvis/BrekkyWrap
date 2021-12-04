@@ -28,4 +28,5 @@ collections:
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
       - { label: 'Price table', name: 'markets', widget: 'markdown' }
       - { label: 'First promo section', name: 'promo1', widget: 'markdown' }
+      - { label: 'Second promo section', name: 'promo2', widget: 'markdown' }
 local_backend: true
