@@ -14,7 +14,7 @@
     body, table, td, a{-webkit-text-size-adjust:100%; -ms-text-size-adjust:100%;} /* Prevent WebKit and Windows mobile changing default text sizes */
     table, td{mso-table-lspace:0pt; mso-table-rspace:0pt;} /* Remove spacing between tables in Outlook 2007 and up */
     img{-ms-interpolation-mode:bicubic;} /* Allow smoother rendering of resized image in Internet Explorer */
-    p{margin: 0.7em 0 0.7em 0;}
+    p{margin: 0.7em 0 1em 0;}
     a{color: #565e76;text-decoration: underline;}
     /* RESET STYLES */
     body{margin:0; padding:0;}
@@ -126,7 +126,7 @@
                         <td style="padding: 20px 0px 30px 0px;" class="logo">
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
-                                    <td bgcolor="#ffffff" width="100" align="left"><a href="{{ "/" | relURL }}" target="_blank"><img alt="Logo" src="{{ "images/icons/og-image.png" | absURL }}" width="52" height="52" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #333333; font-size: 16px;" border="0"></a></td>
+                                    <td bgcolor="#ffffff" width="100" align="left" valign="top"><a href="{{ .Site.BaseURL }}" target="_blank"><img alt="Logo" src="{{ "images/icons/og-image.png" | absURL }}" width="52" height="52" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #333333; font-size: 16px;" border="0"></a></td>
                                     <td bgcolor="#ffffff" width="400" align="right" class="mobile-hide">
                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                             <tr>
@@ -162,7 +162,7 @@
                                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                                         <tr>
                                                             <td>
-                                                                <a href="{{ "/" | relURL }}" target="_blank"><img src="{{ "images/icons/brekky-email.png" | absURL }}" width="500" border="0" alt="Brekky Wrap" style="display: block; padding: 0 0 15px 0; color: #666666; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px; width: 500px;" class="img-max"></a>
+                                                                <a href="{{ .Site.BaseURL }}" target="_blank"><img src="{{ "images/icons/brekky-email.png" | absURL }}" width="500" border="0" alt="Brekky Wrap" style="display: block; padding: 0 0 15px 0; color: #666666; text-decoration: none; font-family: Helvetica, arial, sans-serif; font-size: 16px; width: 500px;" class="img-max"></a>
                                                             </td>
                                                           </tr>
                                                       </table>
@@ -236,7 +236,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Markets</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Markets</td>
                                         </tr>
                                         <tr>
                                             <td align="center" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">{{ .Params.markets | safeHTML }}
@@ -267,7 +267,7 @@
                         <!-- TITLE SECTION AND COPY -->
                         <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tr>
-                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Food for thought</td>
+                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Food for thought</td>
                             </tr>
                             <tr>
                                 <td>
@@ -308,7 +308,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Still hungry?</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Still hungry?</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.stillhungry | markdownify }}</td>
@@ -339,7 +339,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Share the love, get rewarded</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Share the love, get rewarded</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.promo2 | safeHTML }}</td>
@@ -368,7 +368,7 @@
                         <table role="presentation" width="500" border="0" cellspacing="0" cellpadding="0" align="center" class="responsive-table">
                             <tr>
                                 <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#333333;">
-                                    <span class="appleFooter" style="color:#333333;">&copy; 2021 Brekky Wrap. Read our <a href="/privacy/">Privacy Policy</a>.</span>
+                                    <span class="appleFooter" style="color:#333333;">&copy; 2021 Brekky Wrap. Read our <a href="https://brekkywrap.com/privacy/">Privacy Policy</a>.</span>
                                 </td>
                             </tr>
                         </table>

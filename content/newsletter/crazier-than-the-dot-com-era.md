@@ -1,9 +1,9 @@
 ---
 title: Crazier than the dot-com era
-date: 2021-12-05T02:52:59.167Z
+date: 2021-12-06T08:49:38.649Z
 description: States are closing borders again, is the great resignation losing
-  steam, crypto was smashed in less than an hour, Canada's running hot, Moderna
-  can whip up a new vax very quickly, Turkey in more turmoil.
+  steam?, crypto was smashed in less than an hour, Canada's running hot, Moderna
+  can whip up a new vax very quickly, Turkey's in deeper in turmoil.
 author: justin
 intro: >-
   Good morning! The pandemic news was all about borders for a change (🙄) as
@@ -47,19 +47,19 @@ marketcommentary: >-
   Locally, the **ASX200** finished up 0.22% as the energy sector (+1.60%), banks (+0.97%) and materials (+0.45%) more than offset some heavy losses elsewhere, such as TPG (-8.61%) which was heavily [sold off](https://www.smh.com.au/business/markets/asx-set-to-rise-as-wall-st-rebounds-munger-headlines-sohn-conference-20211202-p59ed1.html?post=p5340t#p5340t) after its founder and chairman David Teoh revealed he had entered an agreement to flog 53 million shares (~3%).
 featureimage:
   featureimg: /images/dear-diary-crypto.gif
-  blurb: Anyone following crypto markets over the weekend.
+  blurb: Anyone who bought crypto recently had a wild ride over the weekend.
   source: https://tenor.com/view/dear-diary-bitcoin-crash-lost-gif-10860675
 stillhungry: >-
   🦾
   [Really](https://www.vice.com/en/article/88ggp3/italian-man-tries-to-avoid-getting-covid-jab-with-fake-silicone-arm)?
-  A man northern Italy "brought a silicone arm to his COVID-19 vaccination in an
-  attempt to obtain a green pass without actually getting the vaccine".
+  A man in northern Italy "brought a silicone arm to his COVID-19 vaccination in
+  an attempt to obtain a green pass without actually getting the vaccine".
 
 
   🧴 [REALLY](https://www.bbc.com/news/uk-england-norfolk-59493747)? A man in Norfolk, England was jailed for 12 weeks after he "put superglue on the lock of a Covid-19 vaccination centre, preventing 504 people from getting jabs".
 
 
-  🏭 Federal Labor [pledged](https://www.smh.com.au/politics/federal/labor-sets-43-per-cent-emissions-reduction-target-for-2030-20211203-p59ei2.html) to cut greenhouse gas emissions by 43% by 2030 if it wins the next election, exceeding the 35% target adopted by the Liberals at the recent COP26 summit.
+  🏭 Federal Labor [pledged](https://www.smh.com.au/politics/federal/labor-sets-43-per-cent-emissions-reduction-target-for-2030-20211203-p59ei2.html) to cut greenhouse gas emissions by 43% by 2030 if it wins the next election, no doubt "scientifically" selected based on its proximity precisely between the 35% target adopted by the Liberals and 50%.
 
 
   🌋 Mount Semeru on Indonesia's Java island [erupted](https://www.bbc.com/news/world-asia-59532251) over the weekend, killing at least one person and injuring dozens more and spawning an ash cloud rising up to 15,000m.
@@ -789,7 +789,7 @@ covid1: "                      <tr>\r
 
   \        <center
   style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
+  \">98.7%</center>\r
 
   \      </v:roundrect>\r
 
@@ -801,7 +801,7 @@ covid1: "                      <tr>\r
   #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
+  >98.7%</a></div>\r
 
   \  </td>\r
 
@@ -813,24 +813,24 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"
   style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
+  strokecolor=\"#9BEAA9\" fillcolor=\"#9BEAA9\">\r
 
   \        <w:anchorlock/>\r
 
   \        <center
   style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
+  \">92.8%</center>\r
 
   \      </v:roundrect>\r
 
   \    <![endif]--><a
   href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
 
-  \    style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#9BEAA9;border:1px solid
+  #9BEAA9;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
+  >92.8%</a></div>\r
 
   \  </td>\r
 
@@ -842,24 +842,24 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"
   style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
+  strokecolor=\"#9BEAA9\" fillcolor=\"#9BEAA9\">\r
 
   \        <w:anchorlock/>\r
 
   \        <center
   style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
+  \">91.2%</center>\r
 
   \      </v:roundrect>\r
 
   \    <![endif]--><a
   href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
 
-  \    style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#9BEAA9;border:1px solid
+  #9BEAA9;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
+  >91.2%</a></div>\r
 
   \  </td>\r
 
@@ -871,7 +871,7 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.coronavirus.tas.gov.au/transition-plan\"
   style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#9EE8A8\" fillcolor=\"#9EE8A8\">\r
+  strokecolor=\"#A5E0A5\" fillcolor=\"#A5E0A5\">\r
 
   \        <w:anchorlock/>\r
 
@@ -884,8 +884,8 @@ covid1: "                      <tr>\r
   \    <![endif]--><a
   href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
 
-  \    style=\"background-color:#9EE8A8;border:1px solid
-  #9EE8A8;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#A5E0A5;border:1px solid
+  #A5E0A5;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
   >88.4%</a></div>\r
@@ -900,7 +900,7 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.covid-19.sa.gov.au/response\"
   style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#AADBA3\" fillcolor=\"#AADBA3\">\r
+  strokecolor=\"#AFD5A1\" fillcolor=\"#AFD5A1\">\r
 
   \        <w:anchorlock/>\r
 
@@ -912,8 +912,8 @@ covid1: "                      <tr>\r
 
   \    <![endif]--><a href=\"https://www.covid-19.sa.gov.au/response\"\r
 
-  \    style=\"background-color:#AADBA3;border:1px solid
-  #AADBA3;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#AFD5A1;border:1px solid
+  #AFD5A1;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
   >82.5%</a></div>\r
@@ -928,7 +928,7 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
   vel_categories\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
-  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+  arcsize=\"50%\" strokecolor=\"#B9CB9D\" fillcolor=\"#B9CB9D\">\r
 
   \        <w:anchorlock/>\r
 
@@ -942,8 +942,8 @@ covid1: "                      <tr>\r
   href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
   vel_categories\"\r
 
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
   >79.0%</a></div>\r
@@ -958,7 +958,7 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
   vaccine-plan\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
-  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+  arcsize=\"50%\" strokecolor=\"#B9CB9D\" fillcolor=\"#B9CB9D\">\r
 
   \        <w:anchorlock/>\r
 
@@ -972,8 +972,8 @@ covid1: "                      <tr>\r
   href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
   vaccine-plan\"\r
 
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
   >78.4%</a></div>\r
@@ -988,7 +988,7 @@ covid1: "                      <tr>\r
   xmlns:w=\"urn:schemas-microsoft-com:office:word\"
   href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
   \" style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+  strokecolor=\"#B9CB9D\" fillcolor=\"#B9CB9D\">\r
 
   \        <w:anchorlock/>\r
 
@@ -1002,8 +1002,8 @@ covid1: "                      <tr>\r
   href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
   \"\r
 
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  \    style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
   ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
   text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
   >77.8%</a></div>\r
@@ -1105,8 +1105,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
   \  style=\"background-color:#91F5AD;border:1px solid
   #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">9\
+  8.7%</a></div>\r
 
   </td>\r
 
@@ -1115,11 +1115,11 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
   \  <div><a
   href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
 
-  \  style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#9BEAA9;border:1px solid
+  #9BEAA9;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">9\
+  2.8%</a></div>\r
 
   </td>\r
 
@@ -1127,11 +1127,11 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
 
   \  <div><a href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
 
-  \  style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#9BEAA9;border:1px solid
+  #9BEAA9;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">9\
+  1.2%</a></div>\r
 
   </td>\r
 
@@ -1139,8 +1139,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
 
   \  <div><a href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
 
-  \  style=\"background-color:#9EE8A8;border:1px solid
-  #9EE8A8;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#A5E0A5;border:1px solid
+  #A5E0A5;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
   xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
   8.4%</a></div>\r
@@ -1151,8 +1151,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
 
   \  <div><a href=\"https://www.covid-19.sa.gov.au/response\"\r
 
-  \  style=\"background-color:#AADBA3;border:1px solid
-  #AADBA3;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#AFD5A1;border:1px solid
+  #AFD5A1;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
   xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
   2.5%</a></div>\r
@@ -1165,8 +1165,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
   href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
   vel_categories\"\r
 
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
   xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
   9.0%</a></div>\r
@@ -1179,8 +1179,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
   href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
   vaccine-plan\"\r
 
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
   xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
   8.4%</a></div>\r
@@ -1193,8 +1193,8 @@ covid2: "<div align=\"center\" class=\"hidden-lg-600\"
   href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
   \"\r
 
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  \  style=\"background-color:#B9CB9D;border:1px solid
+  #B9CB9D;border-radius:16px;color:#444444;display:inline-block;font-family:san\
   s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
   xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
   7.8%</a></div>\r
@@ -2076,4 +2076,4 @@ Soaring property prices, full employment and rapid inflation – not long now be
 
 **The 1970s begs to differ**: The President of the European Central Bank, Christine Lagarde, [said](https://www.reuters.com/markets/commodities/notable-quotes-reuters-next-conference-2021-12-03/) "I see an inflation profile that looks like a hump. And a hump eventually declines."
 
-Correct, if the central bank properly calibrates demand to match supply, a task at which it has clearly been failing over the past several months. Will 2022 be any different?
+Correct, IF the central bank properly calibrates demand to match supply, a task at which it has clearly been failing over the past several months. Will 2022 really be any different?
