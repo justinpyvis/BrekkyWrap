@@ -113,7 +113,7 @@ promo2: "                            <tr>\r
 
   \                                                      <p>Have friends or
   co-workers who'd love Brekky Wrap? Give them your unique referral link (below)
-  and unlock <a href=\"https://brekkywrap.com/rewards/\" style=\"color: #08121A;
+  and unlock <a href=\"https://brekkywrap.com/rewards/\" style=\"color: #565e76;
   text-decoration: underline;\" target=\"_blank\" title=\"View our
   rewards\">awesome rewards</a> when they subscribe:<br><br>
 

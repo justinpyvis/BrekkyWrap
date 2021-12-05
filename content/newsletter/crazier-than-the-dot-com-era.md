@@ -752,6 +752,541 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \ </tr>\r
 
   </table>"
+covid1: "                      <tr>\r
+
+  \                          <td align=\"center\" style=\"padding: 0 0 10px 0;
+  font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif;
+  color: #333333;font-weight:700;text-align:center;\">\r
+
+  \                          <p>Fully vaccinated (aged 16+)</td>\r
+
+  \                      </tr>\r
+
+  \                        <tr>\r
+
+  \                            <td align=\"center\" style=\"padding: 0 0 10px
+  0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial,
+  sans-serif; color: #333333;font-weight:700;\" class=\"padding-copy\">\r
+
+  <div align=\"center\" class=\"hidden-sm-600\">\r
+
+  \  <table width=\"500\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
+  align=\"center\">\r
+
+  \    <tr>\r
+
+  \      <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"
+  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">✔</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"\
+  \r
+
+  \    style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >✔</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"
+  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">✔</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
+
+  \    style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >✔</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"
+  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">✔</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
+
+  \    style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >✔</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.coronavirus.tas.gov.au/transition-plan\"
+  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#9EE8A8\" fillcolor=\"#9EE8A8\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">88.4%</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
+
+  \    style=\"background-color:#9EE8A8;border:1px solid
+  #9EE8A8;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >88.4%</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.covid-19.sa.gov.au/response\"
+  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#AADBA3\" fillcolor=\"#AADBA3\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">82.5%</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a href=\"https://www.covid-19.sa.gov.au/response\"\r
+
+  \    style=\"background-color:#AADBA3;border:1px solid
+  #AADBA3;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >82.5%</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
+  vel_categories\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
+  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">79.0%</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
+  vel_categories\"\r
+
+  \    style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >79.0%</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
+  vaccine-plan\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
+  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">78.4%</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
+  vaccine-plan\"\r
+
+  \    style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >78.4%</a></div>\r
+
+  \  </td>\r
+
+  \  <td>\r
+
+  \    <div><!--[if mso]>\r
+
+  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
+  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
+  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
+  \" style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
+  strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
+
+  \        <w:anchorlock/>\r
+
+  \        <center
+  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
+  \">77.8%</center>\r
+
+  \      </v:roundrect>\r
+
+  \    <![endif]--><a
+  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
+  \"\r
+
+  \    style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
+  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
+  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
+  >77.8%</a></div>\r
+
+  \  </td>\r
+
+  \  </tr>\r
+
+  \  </table>\r
+
+  \    <table width=\"500\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
+  align=\"center\">\r
+
+  \    <tr>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>ACT</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>NSW</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>VIC</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>TAS</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>SA</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>NT</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>QLD</div>\r
+
+  \  </td>\r
+
+  \  <td width=\"59px\"
+  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
+  rder:none;-webkit-text-size-adjust:none;\">\r
+
+  \  <div>WA</div>\r
+
+  \  </td>\r
+
+  \    </tr>\r
+
+  \    </table>\r
+
+  </div>"
+covid2: "<div align=\"center\" class=\"hidden-lg-600\"
+  style=\"text-align:center;display:none;mso-hide:all;\">\r
+
+  <table width=\"96%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
+  align=\"center\">\r
+
+  \  <tr>\r
+
+  \    <td>\r
+
+  \  <div><a
+  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"\
+  \r
+
+  \  style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
+  </a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a
+  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
+
+  \  style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
+  </a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
+
+  \  style=\"background-color:#91F5AD;border:1px solid
+  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
+  </a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
+
+  \  style=\"background-color:#9EE8A8;border:1px solid
+  #9EE8A8;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
+  8.4%</a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a href=\"https://www.covid-19.sa.gov.au/response\"\r
+
+  \  style=\"background-color:#AADBA3;border:1px solid
+  #AADBA3;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
+  2.5%</a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a
+  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
+  vel_categories\"\r
+
+  \  style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
+  9.0%</a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a
+  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
+  vaccine-plan\"\r
+
+  \  style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
+  8.4%</a></div>\r
+
+  </td>\r
+
+  <td>\r
+
+  \  <div><a
+  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
+  \"\r
+
+  \  style=\"background-color:#B7CD9E;border:1px solid
+  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
+  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
+  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
+  7.8%</a></div>\r
+
+  </td>\r
+
+  </tr>\r
+
+  </table>\r
+
+  \  <table width=\"96%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
+  align=\"center\">\r
+
+  \  <tr>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>ACT</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>NSW</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>VIC</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>TAS</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>SA</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>NT</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>QLD</div>\r
+
+  </td>\r
+
+  <td width=\"32px\"
+  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
+  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
+  ;mso-hide:all;\">\r
+
+  <div>WA</div>\r
+
+  </td>\r
+
+  \  </tr>\r
+
+  \  </table>\r
+
+  </div>"
 promo1: "                            <tr>\r
 
   \                                <td>\r
@@ -837,7 +1372,7 @@ promo2: "                            <tr>\r
 
   \                                                      <p>Have friends or
   co-workers who'd love Brekky Wrap? Give them your unique referral link (below)
-  and unlock <a href=\"https://brekkywrap.com/rewards/\" style=\"color: #08121A;
+  and unlock <a href=\"https://brekkywrap.com/rewards/\" style=\"color: #565e76;
   text-decoration: underline;\" target=\"_blank\" title=\"View our
   rewards\">awesome rewards</a> when they subscribe:<br><br>
 
@@ -1513,541 +2048,6 @@ vaxtracker: "<!-- START COVID CARD -->\r
   </tr>\r
 
   <!-- END COVID CARD -->"
-covid1: "                      <tr>\r
-
-  \                          <td align=\"center\" style=\"padding: 0 0 10px 0;
-  font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif;
-  color: #333333;font-weight:700;text-align:center;\">\r
-
-  \                          <p>Fully vaccinated (aged 16+)</td>\r
-
-  \                      </tr>\r
-
-  \                        <tr>\r
-
-  \                            <td align=\"center\" style=\"padding: 0 0 10px
-  0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial,
-  sans-serif; color: #333333;font-weight:700;\" class=\"padding-copy\">\r
-
-  <div align=\"center\" class=\"hidden-sm-600\">\r
-
-  \  <table width=\"500\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
-  align=\"center\">\r
-
-  \    <tr>\r
-
-  \      <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"
-  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"\
-  \r
-
-  \    style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"
-  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
-
-  \    style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"
-  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#91F5AD\" fillcolor=\"#91F5AD\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">✔</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
-
-  \    style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >✔</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.coronavirus.tas.gov.au/transition-plan\"
-  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#9EE8A8\" fillcolor=\"#9EE8A8\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">88.4%</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
-
-  \    style=\"background-color:#9EE8A8;border:1px solid
-  #9EE8A8;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >88.4%</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.covid-19.sa.gov.au/response\"
-  style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#AADBA3\" fillcolor=\"#AADBA3\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">82.5%</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a href=\"https://www.covid-19.sa.gov.au/response\"\r
-
-  \    style=\"background-color:#AADBA3;border:1px solid
-  #AADBA3;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >82.5%</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
-  vel_categories\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
-  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">79.0%</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
-  vel_categories\"\r
-
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >79.0%</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
-  vaccine-plan\" style=\"height:59px;v-text-anchor:middle;width:59px;\"
-  arcsize=\"50%\" strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">78.4%</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
-  vaccine-plan\"\r
-
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >78.4%</a></div>\r
-
-  \  </td>\r
-
-  \  <td>\r
-
-  \    <div><!--[if mso]>\r
-
-  \      <v:roundrect xmlns:v=\"urn:schemas-microsoft-com:vml\"
-  xmlns:w=\"urn:schemas-microsoft-com:office:word\"
-  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
-  \" style=\"height:59px;v-text-anchor:middle;width:59px;\" arcsize=\"50%\"
-  strokecolor=\"#B7CD9E\" fillcolor=\"#B7CD9E\">\r
-
-  \        <w:anchorlock/>\r
-
-  \        <center
-  style=\"color:#444444;font-family:sans-serif;font-size:13px;font-weight:bold;\
-  \">77.8%</center>\r
-
-  \      </v:roundrect>\r
-
-  \    <![endif]--><a
-  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
-  \"\r
-
-  \    style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:32.5px;color:#444444;display:inline-block;font-family:s\
-  ans-serif;font-size:13px;font-weight:bold;line-height:59px;text-align:center;\
-  text-decoration:none;width:59px;-webkit-text-size-adjust:none;mso-hide:all;\"\
-  >77.8%</a></div>\r
-
-  \  </td>\r
-
-  \  </tr>\r
-
-  \  </table>\r
-
-  \    <table width=\"500\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
-  align=\"center\">\r
-
-  \    <tr>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>ACT</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>NSW</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>VIC</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>TAS</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>SA</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>NT</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>QLD</div>\r
-
-  \  </td>\r
-
-  \  <td width=\"59px\"
-  style=\"width:59px;text-align:center;font-weight:bold;text-decoration:none;bo\
-  rder:none;-webkit-text-size-adjust:none;\">\r
-
-  \  <div>WA</div>\r
-
-  \  </td>\r
-
-  \    </tr>\r
-
-  \    </table>\r
-
-  </div>"
-covid2: "<div align=\"center\" class=\"hidden-lg-600\"
-  style=\"text-align:center;display:none;mso-hide:all;\">\r
-
-  <table width=\"96%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
-  align=\"center\">\r
-
-  \  <tr>\r
-
-  \    <td>\r
-
-  \  <div><a
-  href=\"https://www.covid19.act.gov.au/restrictions/the-acts-pathway-forward\"\
-  \r
-
-  \  style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a
-  href=\"https://www.nsw.gov.au/covid-19/easing-covid-19-restrictions\"\r
-
-  \  style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a href=\"https://www.coronavirus.vic.gov.au/victorias-roadmap\"\r
-
-  \  style=\"background-color:#91F5AD;border:1px solid
-  #91F5AD;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">✔\
-  </a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a href=\"https://www.coronavirus.tas.gov.au/transition-plan\"\r
-
-  \  style=\"background-color:#9EE8A8;border:1px solid
-  #9EE8A8;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
-  8.4%</a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a href=\"https://www.covid-19.sa.gov.au/response\"\r
-
-  \  style=\"background-color:#AADBA3;border:1px solid
-  #AADBA3;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">8\
-  2.5%</a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a
-  href=\"https://coronavirus.nt.gov.au/stay-safe/freedoms-and-restrictions#/tra\
-  vel_categories\"\r
-
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
-  9.0%</a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a
-  href=\"https://www.covid19.qld.gov.au/government-actions/queenslands-covid19-\
-  vaccine-plan\"\r
-
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
-  8.4%</a></div>\r
-
-  </td>\r
-
-  <td>\r
-
-  \  <div><a
-  href=\"https://www.wa.gov.au/government/announcements/was-safe-transition-plan\
-  \"\r
-
-  \  style=\"background-color:#B7CD9E;border:1px solid
-  #B7CD9E;border-radius:16px;color:#444444;display:inline-block;font-family:san\
-  s-serif;font-size:10px;font-weight:bold;line-height:32px;text-align:center;te\
-  xt-decoration:none;width:32px;-webkit-text-size-adjust:none;mso-hide:all;\">7\
-  7.8%</a></div>\r
-
-  </td>\r
-
-  </tr>\r
-
-  </table>\r
-
-  \  <table width=\"96%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"
-  align=\"center\">\r
-
-  \  <tr>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>ACT</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>NSW</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>VIC</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>TAS</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>SA</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>NT</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>QLD</div>\r
-
-  </td>\r
-
-  <td width=\"32px\"
-  style=\"width:32px;text-align:center;font-family:sans-serif;font-size:10px;fo\
-  nt-weight:bold;text-decoration:none;border:none;-webkit-text-size-adjust:none\
-  ;mso-hide:all;\">\r
-
-  <div>WA</div>\r
-
-  </td>\r
-
-  \  </tr>\r
-
-  \  </table>\r
-
-  </div>"
 featureimg: /images/oecd-inflation-projections-dec-21.png
 body2: |-
   **Subjet one**: test test test test test test test test
