@@ -9,7 +9,7 @@ marketcommentary: |-
   \
   Locally, the **ASX200**
 featureimage:
-  featureimg: /images/brekky-logo.png
+  featureimg: /images/brekky-wrap-email.png
   blurb: This is a test blurb
   source: https://brekkywrap.com
 stillhungry: |-

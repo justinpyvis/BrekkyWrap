@@ -118,7 +118,7 @@
 <!-- HEADER -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td bgcolor="#ffffff">
+        <td bgcolor="#f8f8f8">
             <div align="center" style="padding: 0px 15px 0px 15px;">
                 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="500" class="wrapper">
                     <!-- LOGO/PREHEADER TEXT -->
@@ -126,11 +126,11 @@
                         <td style="padding: 20px 0px 30px 0px;" class="logo">
                             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                                 <tr>
-                                    <td bgcolor="#ffffff" width="100" align="left" valign="top"><a href="{{ .Site.BaseURL }}" target="_blank"><img alt="Logo" src="{{ "images/icons/og-image.png" | absURL }}" width="52" height="52" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #333333; font-size: 16px;" border="0"></a></td>
-                                    <td bgcolor="#ffffff" width="400" align="right" class="mobile-hide">
+                                    <td bgcolor="#f8f8f8" width="100" align="left" valign="top"><a href="{{ .Site.BaseURL }}" target="_blank"><img alt="Logo" src="{{ "images/icons/og-image.png" | absURL }}" width="52" height="52" style="display: block; font-family: Helvetica, Arial, sans-serif; color: #333333; font-size: 16px;" border="0"></a></td>
+                                    <td bgcolor="#f8f8f8" width="400" align="right" class="mobile-hide">
                                         <table role="presentation" border="0" cellpadding="0" cellspacing="0">
                                             <tr>
-                                                <td align="right" style="padding: 0 0 5px 0; font-size: 14px; font-family: Arial, sans-serif; color: #333333; text-decoration: none;"><span style="color: #333333; text-decoration: none;">{{.Description}}</span></td>
+                                                <td align="right" style="padding: 0 0 5px 0; font-size: 14px; font-family: Arial, sans-serif; color: #333333; text-decoration: none; font-style: italic;"><span style="color: #333333; text-decoration: none;">{{.Description}}</span></td>
                                             </tr>
                                         </table>
                                     </td>
@@ -222,7 +222,7 @@
         </td>
     </tr>
 </table>
-
+{{ if .Params.markets }}
 <!-- ONE COLUMN W/ BOTTOM IMAGE SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -256,7 +256,8 @@
         </td>
     </tr>
 </table>
-
+{{ end }}
+{{ if .Params.featureimage.featureimg }}
 <!-- FEATURE SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -293,8 +294,8 @@
         </td>
     </tr>
 </table>
-
-
+{{ end }}
+{{ if .Params.stillhungry }}
 <!-- ONE COLUMN SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -324,8 +325,8 @@
         </td>
     </tr>
 </table>
-
-
+{{ end }}
+{{ if .Params.promo2 }}
 <!-- ONE COLUMN SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -339,7 +340,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Share the love, get rewarded</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">Share the love, get rewarded</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.promo2 | safeHTML }}</td>
@@ -355,7 +356,7 @@
         </td>
     </tr>
 </table>
-
+{{ end }}
 
 <!-- FOOTER [Exclude this from ConvertKit ]-->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">

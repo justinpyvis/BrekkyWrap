@@ -13,7 +13,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string', pattern: ['^.{50,250}$', "Must have between 50 and 250 characters"] }
+      - { label: 'Description', name: 'description', widget: 'string', pattern: ['^.{50,180}$', "Must have between 50 and 180 characters"] }
       - { label: 'Author', name: 'author', widget: 'select', options: ["justin", "admin"] }
       - { label: 'Introduction', name: 'intro', widget: 'markdown' }
       - { label: 'Markets', name: 'marketcommentary', widget: 'markdown' }

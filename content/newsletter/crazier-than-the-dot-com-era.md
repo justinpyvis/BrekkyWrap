@@ -1,35 +1,37 @@
 ---
 title: Crazier than the dot-com era
-date: 2021-12-06T08:49:38.649Z
-description: States are closing borders again, is the great resignation losing
-  steam?, crypto was smashed in less than an hour, Canada's running hot, Moderna
-  can whip up a new vax very quickly, Turkey's in deeper in turmoil.
+date: 2021-12-05T20:33:01.817Z
+description: States are closing borders again; is the great resignation losing
+  steam; crypto smashed in an hour; Canada's running hot; Moderna is efficient;
+  and the ECB calls inflation a hump.
 author: justin
 intro: >-
-  Good morning! The pandemic news was all about borders for a change (🙄) as
-  SA's government
+  Good morning! The pandemic news over the weekend was all about borders (for a
+  change 🙄) after SA's government
   [considered](https://www.adelaidenow.com.au/coronavirus/sa-health-is-set-to-announce-the-covid-situation-after-yesterdays-norwood-cluster-announcement/news-story/409fa8042bfdb90aaeb03250908ec07f)
-  closing up shop just two weeks after reopening before standing firm, electing
-  instead to use "speed bumps" such as additional testing of arrivals to delay
-  Omicron's arrival.
+  closing up shop just two weeks after reopening. It eventually decided to stand
+  firm, electing instead to use "speed bumps" such as additional testing of
+  arrivals to delay Omicron's arrival.
 
 
-  As we've come to expect the WA government had no such trepidation, [re-erecting its hard border](https://www.perthnow.com.au/news/coronavirus/wa-puts-hard-border-back-up-with-south-australia-after-18-new-covid-19-cases-detected-c-4792447) with SA for the first time since August, banning all arrivals from SA except for a small list of travellers such as military, government officials and those with police exemptions. 
+  As we've come to expect the WA government had no such qualms, [re-erecting its hard border](https://www.perthnow.com.au/news/coronavirus/wa-puts-hard-border-back-up-with-south-australia-after-18-new-covid-19-cases-detected-c-4792447) with SA for the first time since August, banning everyone except for a small group of travellers including military, government officials and those with police exemptions. 
 
 
-  Explaining the move, Premier McGowan said "I just don’t want us to get COVID cases before such time as we have high levels of vaccination over 90 per cent and that’s why our approach is so cautious."
+  Explaining the move, Premier McGowan said "I just don't want us to get COVID cases before such time as we have high levels of vaccination over 90% and that's why our approach is so cautious."
 
 
   QLD also [tightened its border](https://www.adelaidenow.com.au/coronavirus/northern-territory-western-australia-toughen-border-rules-with-sa-as-covid-cases-grow/news-story/f523b18996fdec94b2c867737df6ab5d), requiring all arrivals from SA to undertake "14 days mandatory home or hotel quarantine".
 
 
-  Moving on, ahead of a planned reopening on 15 December Tasmania's government [removed](https://www.abc.net.au/news/2021-12-03/dancing-limits-out-but-vaccination-a-requirement-tas-venues/100672236) all restrictions on "stand-up drinking" (we preferred NSW's "vertical drinking"!) but – and it's a big BUT – it will also 'lock out' the unvaccinated from "any venue where alcohol is served".[](https://www.perthnow.com.au/news/coronavirus/wa-puts-hard-border-back-up-with-south-australia-after-18-new-covid-19-cases-detected-c-4792447)
+  Elsewhere:
 
 
-  Elsewhere, it seems Victoria's controversial vaccine mandates [could be scrapped](https://www.heraldsun.com.au/coronavirus/when-victorias-vax-mandate-will-be-scrapped/news-story/62c206258dcf07d821003f21fca54af3) "as early as January", because the "high rate of vaccinations, the passing of the pandemic Bill which sidelines the chief health officer, and the high-profile incidents of violence have led to a change in thinking".
+  * Ahead of a planned reopening on 15 December, Tasmania's government [removed](https://www.abc.net.au/news/2021-12-03/dancing-limits-out-but-vaccination-a-requirement-tas-venues/100672236) all restrictions on "stand-up drinking" (we preferred NSW's "vertical drinking"!) but – and it's a big BUT – it will also 'lock out' the unvaccinated from "any venue where alcohol is served".[](https://www.perthnow.com.au/news/coronavirus/wa-puts-hard-border-back-up-with-south-australia-after-18-new-covid-19-cases-detected-c-4792447)
+
+  * It seems Victoria's controversial vaccine mandates [could be scrapped](https://www.heraldsun.com.au/coronavirus/when-victorias-vax-mandate-will-be-scrapped/news-story/62c206258dcf07d821003f21fca54af3) "as early as January", because the "high rate of vaccinations, the passing of the pandemic Bill which sidelines the chief health officer, and the high-profile incidents of violence have led to a change in thinking".
 
 
-  More than 90% of Victorians are double vaxxed (aged 12+) and Premier Andrews said the mandates were "based on health advice", so we wonder what threshold he – or rather, his secretive "health advice" – has in mind for their abolition (it must be 95%, right?).
+  More than 90% of Victorians are already double vaxxed (aged 12+) and Premier Andrews said the mandates were "based on health advice", so we wonder what number he – or rather, his secretive "health advice" – has in mind for their abolition.
 marketcommentary: >-
   The **US S&P500** closed Friday down 0.84% following a disappointing nonfarm
   payrolls report that showed growth of 210,000 in November, less than half the
@@ -87,671 +89,260 @@ stillhungry: >-
 
 
   💉 Australia's drug regulator, the TGA, [approved](https://www.health.gov.au/ministers/the-hon-greg-hunt-mp/media/tga-provisionally-approves-pfizer-covid-19-vaccine-for-5-to-11-year-olds) the Pfizer vaccine for use in children aged 5-11, with the Australian government to "start rolling out" the jab to the cohort from 10 January.
-markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
-  width=\"100%\"\r
 
-  \ style='width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184;mso-pa\
-  dding-alt:\r
 
-  \ 0cm 5.4pt 0cm 5.4pt'>\r
-
-  \ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>\r
-
-  \  <td width=\"100%\" colspan=5
-  style='width:100.0%;border:none;border-bottom:\r
-
-  \  solid #D9D9D9
-  1.0pt;mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:\r
-
-  \  217;mso-border-bottom-alt:solid #D9D9D9
-  .5pt;mso-border-bottom-themecolor:\r
-
-  \  background1;mso-border-bottom-themeshade:217;padding:.75pt .75pt .75pt
-  .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-bottom:1.5pt;text-align:right;\r
-
-  \  line-height:normal'><span
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;\r
-
-  \ 
-  mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>D\
-  aily\r
-
-  \  % change</span></p>\r
-
-  \  </td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:1'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>AUD/USD</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>70.\
-  9</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  0.3%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:2'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>AUD/CNY</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4.5\
-  1</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  0.2%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:3'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>AU&nbsp;Bond</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.5\
-  5</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>0.0\
-  %</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:4'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>US&nbsp;Bond</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.3\
-  4</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  7.3%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:5'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>ASX200</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>7,2\
-  41</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  0.2%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:6'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>S&amp;P500</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,5\
-  38</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  0.9%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:7'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>Brent&nbsp;(bbl)</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>69.\
-  9</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  0.3%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:8'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>Gold&nbsp;(oz)</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1,7\
-  82</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  1.2%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:9'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \ 
-  color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>101\
-  .9</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  2.7%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:10'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>Bitcoin</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>49,\
-  443</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  0.5%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:11'>\r
-
-  \  <td width=\"7%\" style='width:7.86%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \  <td width=\"19%\" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal
-  style='margin-top:2.0pt;margin-right:0cm;margin-bottom:\r
-
-  \  2.0pt;margin-left:0cm;line-height:normal'><span
-  style='font-size:13.0pt;\r
-
-  \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
-
-  \  color:#333333;mso-fareast-language:EN-AU'>Ethereum</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"28%\" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,2\
-  01</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"36%\" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal align=right
-  style='margin-top:2.0pt;margin-right:0cm;\r
-
-  \ 
-  margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
-  \r
-
-  \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  2.0%</span></p>\r
-
-  \  </td>\r
-
-  \  <td width=\"7%\" valign=top style='width:7.36%;padding:.75pt .75pt .75pt
-  .75pt'></td>\r
-
-  \ </tr>\r
-
-  \ <tr style='mso-yfti-irow:12;mso-yfti-lastrow:yes'>\r
-
-  \  <td width=\"100%\" colspan=5
-  style='width:100.0%;border:none;border-top:solid #D9D9D9 1.0pt;\r
-
-  \  mso-border-top-themecolor:background1;mso-border-top-themeshade:217;\r
-
-  \  mso-border-top-alt:solid #D9D9D9
-  .5pt;mso-border-top-themecolor:background1;\r
-
-  \  mso-border-top-themeshade:217;padding:.75pt .75pt .75pt .75pt'>\r
-
-  \  <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span\r
-
-  \ 
-  style='font-size:9.0pt;font-family:\"Helvetica\",sans-serif;mso-fareast-font-\
-  family:\r
-
-  \  Helvetica;color:#333333;mso-fareast-language:EN-AU'>Note: Brent oil,
-  gold\r
-
-  \  bullion and iron ore prices are the second futures contract. Bond yields
-  are\r
-
-  \  10-year Treasuries. The S&amp;P500 is a snapshot 30 minutes before
-  close.</span></i></p>\r
-
-  \  </td>\r
-
-  \ </tr>\r
-
-  </table>"
+  🍻 According to a [global drug survey](https://www.vice.com/en/article/pkpp9z/australia-is-the-drunkest-country-in-the-world?ref=thefuturist), Australia is "the drunkest country on the planet, with Australians getting s\*\*tfaced almost twice as frequently as the global average".
+
+
+  👊 Right... One day after adopting a "historical resolution" that sets President Xi Jinping up to rule China for life, the Director of the CCP's Central Committee [said](https://www.cnbc.com/2021/11/12/china-criticizes-us-democracy-while-promoting-xis-growing-power.html) "The electoral democracy of Western countries are actually democracy ruled by the capital, and they are a game of the rich, not real democracy."
+markets: >-
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+   style='width:100.0%;border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:
+   0cm 5.4pt 0cm 5.4pt'>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td width="100%" colspan=5 style='width:100.0%;border:none;border-bottom:
+    solid #D9D9D9 1.0pt;mso-border-bottom-themecolor:background1;mso-border-bottom-themeshade:
+    217;mso-border-bottom-alt:solid #D9D9D9 .5pt;mso-border-bottom-themecolor:
+    background1;mso-border-bottom-themeshade:217;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-bottom:1.5pt;text-align:right;
+    line-height:normal'><span style='font-size:13.0pt;font-family:"Helvetica",sans-serif;
+    mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>Daily
+    % change</span></p>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>AUD/USD</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>70.9</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#C00000'>-0.3%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>AUD/CNY</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>4.51</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+0.2%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:3'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>AU&nbsp;Bond</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>1.55</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#C00000'>-7.6%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:4'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>US&nbsp;Bond</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>1.34</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#C00000'>-7.3%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:5'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>ASX200</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>7,241</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+0.2%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:6'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>S&amp;P500</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>4,538</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#C00000'>-0.9%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:7'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>Brent&nbsp;(bbl)</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>69.9</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+0.3%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:8'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>Gold&nbsp;(oz)</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>1,782</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+1.2%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:9'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>101.9</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+2.7%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:10'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>Bitcoin</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>48,860</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#C00000'>-0.7%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:11'>
+    <td width="7%" style='width:7.86%;padding:.75pt .75pt .75pt .75pt'></td>
+    <td width="19%" style='width:19.86%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:2.0pt;margin-right:0cm;margin-bottom:
+    2.0pt;margin-left:0cm;line-height:normal'><span style='font-size:13.0pt;
+    font-family:"Helvetica",sans-serif;mso-fareast-font-family:Helvetica;
+    color:#333333;mso-fareast-language:EN-AU'>Ethereum</span></p>
+    </td>
+    <td width="28%" style='width:28.82%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:black'>4,135</span></p>
+    </td>
+    <td width="36%" style='width:36.1%;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal align=right style='margin-top:2.0pt;margin-right:0cm;
+    margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span
+    style='font-size:13.0pt;font-family:"Helvetica",sans-serif;color:#00B050'>+0.4%</span></p>
+    </td>
+    <td width="7%" valign=top style='width:7.36%;padding:.75pt .75pt .75pt .75pt'></td>
+   </tr>
+   <tr style='mso-yfti-irow:12;mso-yfti-lastrow:yes'>
+    <td width="100%" colspan=5 style='width:100.0%;border:none;border-top:solid #D9D9D9 1.0pt;
+    mso-border-top-themecolor:background1;mso-border-top-themeshade:217;
+    mso-border-top-alt:solid #D9D9D9 .5pt;mso-border-top-themecolor:background1;
+    mso-border-top-themeshade:217;padding:.75pt .75pt .75pt .75pt'>
+    <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span
+    style='font-size:9.0pt;font-family:"Helvetica",sans-serif;mso-fareast-font-family:
+    Helvetica;color:#333333;mso-fareast-language:EN-AU'>Note: Brent oil, gold
+    bullion and iron ore prices are the second futures contract. Bond yields are
+    10-year Treasuries. The S&amp;P500 is a snapshot 30 minutes before close.</span></i></p>
+    </td>
+   </tr>
+  </table>
 covid1: "                      <tr>\r
 
   \                          <td align=\"center\" style=\"padding: 0 0 10px 0;
@@ -2058,7 +1649,7 @@ body2: |-
 
   **Subjet four**: test test test test test test test test
 ---
-If you bought crypto on Friday and hoped to have a nice relaxing weekend you would have been sorely disappointed, after a wild ride that saw the value of Bitcoin (and most others) plummet around 15% in *under an hour* on Saturday, before stabilising down around 5%.
+If you bought crypto on Friday and hoped to have a nice relaxing weekend you would have been sorely disappointed, after a wild ride that saw the value of Bitcoin (and most others) plummet almost 15% in *under an hour* on Saturday, before stabilising down around 5%.
 
 The plunge was supposedly due to worries about heightened regulatory uncertainty (a bunch of execs [are testifying](https://www.arabnews.com/node/1980566/business-economy) before the US House Financial Services Committee on 8 Dec), but with crypto who *really* knows these days. 🤷‍♂️ 
 
@@ -2070,7 +1661,7 @@ As always with frontier tech, buyer beware!
 
 Soaring property prices, full employment and rapid inflation – not long now before the Bank of Canada will be forced into raising rates.
 
-**About a week and a half**: That's how long Moderna's co-founder Robert Langer [thinks it will take](https://www.smh.com.au/business/companies/vaccines-can-be-formulated-over-and-over-again-moderna-ready-for-new-covid-variants-20211203-p59eja.html) for his company to work out how effective its vaccine is against Omicron. If it's no good, Moderna can churn out a new version "very, very quickly... I see no reason why that can’t be done over and over again".
+**About a week and a half**: That's how long Moderna's co-founder Robert Langer [thinks it will take](https://www.smh.com.au/business/companies/vaccines-can-be-formulated-over-and-over-again-moderna-ready-for-new-covid-variants-20211203-p59eja.html) just over a week for his company to work out how effective its vaccine is against Omicron. If it's no good, Moderna can churn out a new version "very, very quickly... I see no reason why that can’t be done over and over again".
 
 **Draining the coffers**: Turkey's central bank [sold around $US200 million](https://www.bloomberg.com/news/articles/2021-12-03/turkish-lira-swings-to-gain-as-central-bank-intervenes-in-market) of its US dollar reserves on Friday in an attempt to prop up its currency, the lira, after data consumer price inflation "accelerated to over 21% in November, reaching the fastest pace in three years \[and] more than four times the official target".
 

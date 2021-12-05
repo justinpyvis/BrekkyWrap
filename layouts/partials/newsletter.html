@@ -14,7 +14,7 @@
                                         </tr>
                                         <tr>
                                           <td class="td-padding" align="center" style="border-collapse:collapse;border-spacing:0 !important;font-family:'Open Sans', Helvetica, Arial, sans-serif; vertical-align: top; color: #738a94; font-size: 12px; letter-spacing: 0.2px; text-transform: uppercase; text-align: center; padding-top: 0; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 0 18px 0px 18px;" valign="top">
-                                          {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}{{ $author.name }}{{- end -}}&nbsp;–&nbsp;{{ ((.Params.date.UTC).AddDate 0 0 1).Format "02 Jan 2006" }}
+                                          {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}<a href="/authors/{{ $author.slug }}/">{{ $author.name }}</a>&nbsp;–&nbsp;{{- end -}}{{ ((.Params.date.UTC).AddDate 0 0 1).Format "02 Jan 2006" }}
                                           </td>
                                         </tr>
                                         <!-- Intro -->
