@@ -11,7 +11,7 @@ summary: rewards
 
 <p>We'll be adding additional perks over time, so be sure to keep those invites coming – any referrals you make will still count towards future rewards. For now we have four reward tiers:</p>
 
-<img src="https://brekkywrap.com/images/brekky-rewards.png" alt="Brekky Rewards" width="" height="">
+<img src="/images/icons/brekky-rewards.png" alt="Brekky Rewards" width="" height="">
 <br>
 <p>To invite a friend or co-worker, copy and paste your unique referral link (found in every Brekky Wrap email, or <a href="https://hub.brekkywrap.com/" target="_blank" title="Click here to get your unique link">here</a>) into an email or tweet it, WhatsApp it, fax it... wait maybe not that last one. 🤓</p>
 

@@ -13,7 +13,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string', pattern: ['^.{50,250}$', "Must have between 50 and 250 characters"] }
       - { label: 'Author', name: 'author', widget: 'select', options: ["justin", "admin"] }
       - { label: 'Introduction', name: 'intro', widget: 'markdown' }
       - { label: 'Markets', name: 'marketcommentary', widget: 'markdown' }
@@ -26,7 +26,9 @@ collections:
           - {label: "Source", name: "source", widget: "string"}
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
-      - { label: 'Price table', name: 'markets', widget: 'markdown' }
+      - { label: 'Paste price table', name: 'markets', widget: 'markdown' }
+      - { label: 'Paste COVID card html', name: 'covid1', widget: 'markdown', required: false }
+      - { label: 'Paste COVID card web', name: 'covid2', widget: 'markdown', required: false }
       - { label: 'First promo section', name: 'promo1', widget: 'markdown' }
       - { label: 'Second promo section', name: 'promo2', widget: 'markdown' }
 local_backend: true
