@@ -156,7 +156,7 @@ promo2: "                            <tr>\r
   so far. <a
   href=\"https://hub.brekkywrap.com/?subscriber_id={{subscriber.rh_subid}}\"
   style=\"color: #565e76; text-decoration: underline;\" target=\"_blank\"
-  title=\"Invite your friends!\">Check your reward status here</a></p>.</td>\r
+  title=\"Invite your friends!\">Check your reward status here</a>.</p></td>\r
 
   \                                                    </tr>
 
