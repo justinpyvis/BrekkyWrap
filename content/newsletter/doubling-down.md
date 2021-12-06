@@ -22,7 +22,7 @@ intro: >-
   Moving south there was some Christmas certainty provided by the governments of NSW and VIC, which have [reportedly vowed](https://7news.com.au/lifestyle/health-wellbeing/daniel-andrews-says-victoria-will-not-pursue-omicron-zero-rules-to-be-aligned-with-nsw-c-4828004) not to pursue an "Omicron zero" strategy, agreeing to keep their borders open and to proceed with their respective reopening plans.
 
 
-  Not so SA, where Premier Steven Marshall revealed that over the weekend the state's Chief Health Officer Nicola Spurrier [advised him](https://www.adelaidenow.com.au/coronavirus/premier-marshall-warns-sa-borders-may-shut-because-of-omicron/news-story/65a3b86a4b2f0a73fde5998e58bb5d66) to close the border, which had barely been open for two weeks. The state is holding firm for now but Marshall is "is leaving open the prospect of closing South Australia's borders".
+  Not so SA, where Premier Steven Marshall revealed that over the weekend the state's Chief Health Officer Nicola Spurrier [advised him](https://www.adelaidenow.com.au/coronavirus/premier-marshall-warns-sa-borders-may-shut-because-of-omicron/news-story/65a3b86a4b2f0a73fde5998e58bb5d66) to close the border, which had barely been open for two weeks. The state is holding firm for now but Marshall "is leaving open the prospect of closing South Australia's borders".
 
 
   Unless you're in NSW or VIC, you might want to think long and hard about making firm travel plans until more is known about Omicron, although so far the early signs [are positive](https://www.japantimes.co.jp/news/2021/12/06/world/omicron-early-data/) (more infectious but milder).
@@ -32,7 +32,7 @@ marketcommentary: >-
   airlines, after the White House's chief medical advisor, Anthony Fauci,
   [said](https://www.cnbc.com/2021/12/06/omicron-covid-variants-risk-profile-starts-to-emerge-with-early-data-.html)
   the early Omicron signs were "a bit encouraging". Meanwhile, tech companies
-  with stratospheric valuations were dumped again as bond yields shot up on .\
+  with stratospheric valuations were dumped again as bond yields shot up.\
 
   \
 
