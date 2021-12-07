@@ -1,6 +1,6 @@
 ---
 title: A lot can happen in two months
-date: 2021-12-07T09:24:52.496Z
+date: 2021-12-07T20:46:00.013Z
 description: "QLD \"hopes\" it will stay open; the RBA did as expected;
   inflation hasn't gone away; house prices are smashing records everywhere; and
   consumers are more confident. "
