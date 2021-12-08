@@ -28,6 +28,7 @@ stillhungry: |-
   😀 Text
 
   😀 Text
+markets: Price table goes here.
 promo1: "                            <tr>\r
 
   \                                <td>\r
@@ -789,16 +790,6 @@ vaxtracker: "<!-- START COVID CARD -->\r
   </tr>\r
 
   <!-- END COVID CARD -->"
-featureimg: /images/oecd-inflation-projections-dec-21.png
-body2: |-
-  **Subjet one**: test test test test test test test test
-
-  **Subjet two**: test test test test test test test test
-
-  **Subjet three**: test test test test test test test test
-
-  **Subjet four**: test test test test test test test test
-markets: Paste pricing table here.
 ---
 **One**: Text.
 

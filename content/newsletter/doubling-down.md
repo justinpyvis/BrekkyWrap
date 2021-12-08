@@ -112,7 +112,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  line-height:normal'><span
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;\r
 
-  \ 
+  \
   mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>D\
   aily\r
 
@@ -146,11 +146,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>70.\
   4</span></p>\r
 
@@ -161,11 +161,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.7%</span></p>\r
 
@@ -200,11 +200,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4.4\
   9</span></p>\r
 
@@ -215,11 +215,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.2%</span></p>\r
 
@@ -254,11 +254,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.6\
   0</span></p>\r
 
@@ -269,11 +269,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   3.6%</span></p>\r
 
@@ -308,11 +308,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.4\
   3</span></p>\r
 
@@ -323,11 +323,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   6.8%</span></p>\r
 
@@ -362,11 +362,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>7,2\
   45</span></p>\r
 
@@ -377,11 +377,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.1%</span></p>\r
 
@@ -416,11 +416,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,5\
   91</span></p>\r
 
@@ -431,11 +431,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   1.2%</span></p>\r
 
@@ -470,11 +470,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>73.\
   3</span></p>\r
 
@@ -485,11 +485,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   4.9%</span></p>\r
 
@@ -524,11 +524,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1,7\
   79</span></p>\r
 
@@ -539,11 +539,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.2%</span></p>\r
 
@@ -569,7 +569,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
 
-  \ 
+  \
   color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>\r
 
   \  </td>\r
@@ -579,11 +579,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>105\
   .0</span></span></p>\r
 
@@ -594,11 +594,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   3.0%</span></p>\r
 
@@ -633,11 +633,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>49,\
   195</span></p>\r
 
@@ -648,11 +648,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.4%</span></p>\r
 
@@ -687,11 +687,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,2\
   19</span></p>\r
 
@@ -702,11 +702,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.5%</span></p>\r
 
@@ -731,7 +731,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span\r
 
-  \ 
+  \
   style='font-size:9.0pt;font-family:\"Helvetica\",sans-serif;mso-fareast-font-\
   family:\r
 
@@ -2045,15 +2045,6 @@ vaxtracker: "<!-- START COVID CARD -->\r
   </tr>\r
 
   <!-- END COVID CARD -->"
-featureimg: /images/oecd-inflation-projections-dec-21.png
-body2: |-
-  **Subjet one**: test test test test test test test test
-
-  **Subjet two**: test test test test test test test test
-
-  **Subjet three**: test test test test test test test test
-
-  **Subjet four**: test test test test test test test test
 ---
 According [to Caixin](https://www.caixinglobal.com/2021-11-30/local-government-financing-vehicles-buy-more-land-to-fill-hole-in-official-coffers-101811967.html), between July and mid-November China's local government financing vehicles (LGFVs) "bought 13.38% of land parcels by value across the country, up 4.38 percentage points from the January-to-June period".
 
