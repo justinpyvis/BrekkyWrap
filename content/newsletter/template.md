@@ -791,12 +791,4 @@ vaxtracker: "<!-- START COVID CARD -->\r
 
   <!-- END COVID CARD -->"
 ---
-**One**: Text.
-
-**Two**: Text.
-
-**Three**: Text.
-
-**Four**: Text.
-
-**Five**: Text.
+Text here. Try to **bold key points**. Cover the days data releases if you can (or drop them into the below box if they don't flow / too many).
