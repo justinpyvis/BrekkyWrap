@@ -8,9 +8,9 @@ author: justin
 intro: >-
   Good morning! For once it was a relatively quiet day on the pandemic front –
   we can only speculate that Australia's state Premiers were all watching day
-  one of the Ashes instead talking to the media. And why not, given it started
-  with a wicket from the very first ball before a clinical bowling display
-  rolled England for just 147.
+  one of the Ashes instead of talking to the media. And why not, given it
+  started with a wicket from the very first ball before a clinical bowling
+  display rolled England for just 147.
 
 
   It should be a cracking series – provided the very wet La Niña weather pattern cooperates – although there's still no word on where it will wrap up after the hermit state was stripped of the rights to the 5th test, with the favourites looking like one of Sydney/Melbourne for the money or Hobart for the spectacle.
