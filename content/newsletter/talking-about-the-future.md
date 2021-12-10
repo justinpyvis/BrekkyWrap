@@ -115,7 +115,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  line-height:normal'><span
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;\r
 
-  \ 
+  \
   mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>D\
   aily\r
 
@@ -149,11 +149,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>71.\
   5</span></p>\r
 
@@ -164,11 +164,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.4%</span></p>\r
 
@@ -203,11 +203,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4.5\
   6</span></p>\r
 
@@ -218,11 +218,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   1.3%</span></p>\r
 
@@ -257,11 +257,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.6\
   6</span></p>\r
 
@@ -272,11 +272,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   1.2%</span></p>\r
 
@@ -311,11 +311,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.4\
   9</span></p>\r
 
@@ -326,11 +326,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   1.5%</span></p>\r
 
@@ -365,11 +365,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>7,3\
   85</span></p>\r
 
@@ -380,11 +380,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.3%</span></p>\r
 
@@ -419,11 +419,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,6\
   75</span></p>\r
 
@@ -434,11 +434,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.6%</span></p>\r
 
@@ -474,11 +474,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>73.\
   9</span></p>\r
 
@@ -489,11 +489,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   2.5%</span></p>\r
 
@@ -528,11 +528,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1,7\
   77</span></p>\r
 
@@ -543,11 +543,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.3%</span></p>\r
 
@@ -573,7 +573,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
 
-  \ 
+  \
   color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>\r
 
   \  </td>\r
@@ -583,11 +583,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>109\
   .0</span></span></p>\r
 
@@ -598,11 +598,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   2.6%</span></p>\r
 
@@ -637,11 +637,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>47,\
   530</span></p>\r
 
@@ -652,11 +652,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   5.9%</span></p>\r
 
@@ -691,11 +691,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,0\
   98</span></p>\r
 
@@ -706,11 +706,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   7.7%</span></p>\r
 
@@ -735,7 +735,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span\r
 
-  \ 
+  \
   style='font-size:9.0pt;font-family:\"Helvetica\",sans-serif;mso-fareast-font-\
   family:\r
 
@@ -2058,7 +2058,7 @@ Were such a case to emerge – which Lowe said could happen "quite quickly as te
 
 Lowe was sceptical of "a cryptocurrency, not linked directly to the AUD or backed by a particular entity or assets", outside of use cases such as "where they are linked to smart contracts and used in **decentralised finance** (or DeFi) applications".
 
-There was about it. Essentially if the RBA decides to enter the crypto space it will either issue eAUD tokens on its own private blockchain, which is about as unexciting as the name eAUD (and potentially [disastrous for privacy](https://www.rollcall.com/2021/11/16/privacy-issues-seen-reducing-appeal-of-central-bank-digital-currencies/)), or it will **regulate stablecoins** issued by the private sector.
+That was about it. Essentially if the RBA decides to enter the crypto space it will either issue eAUD tokens on its own private blockchain, which is about as unexciting as the name eAUD (and potentially [disastrous for privacy](https://www.rollcall.com/2021/11/16/privacy-issues-seen-reducing-appeal-of-central-bank-digital-currencies/)), or it will **regulate stablecoins** issued by the private sector.
 
 Presumably those stablecoins would be issued by the big banks, given Lowe said they would need to be "backed by high-quality assets and that they meet **high standards for safety and security**", i.e. would involve large regulatory compliance costs that would limit entry to all but the big end of town.
 
