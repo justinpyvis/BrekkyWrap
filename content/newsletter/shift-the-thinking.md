@@ -90,7 +90,7 @@ stillhungry: >-
   👩‍💻 Imagine how bad it is in China. Japan's government "[overstated construction orders](https://www.reuters.com/markets/asia/japan-ministry-overstated-construction-orders-data-years-asahi-2021-12-15/) data received from builders for years", damaging the reliability of the country's official statistics.
 
 
-  🕵️‍♀️ Meta [said that](https://www.visiontimes.com/2021/12/14/facebook-fact-checks-not-factual.html) Facebook posts marked "fact-checked" are are not an admission that they contain actual facts but are instead simply "protected opinion".
+  🕵️‍♀️ Meta [said that](https://www.visiontimes.com/2021/12/14/facebook-fact-checks-not-factual.html) Facebook posts marked "fact-checked" are not an admission that they contain actual facts but are instead simply "protected opinion".
 
 
   🍿 Former Victorian Labor-turned independent MP Adem Somyurek [tweeted](https://twitter.com/AdemSomyurek/status/1470982450801041409) "Tomorrow I will give an insight into Dans \[Andrews] mind re social media. Also I will expose another inner city elitist lefty wanker representing a very working class outer suburban electorate. This person is a 10 on the wanker scale."
