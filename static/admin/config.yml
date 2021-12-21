@@ -27,8 +27,8 @@ collections:
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
       - { label: 'Paste price table', name: 'markets', widget: 'markdown' }
-      - { label: 'Paste COVID card html', name: 'covid1', widget: 'markdown', required: false }
-      - { label: 'Paste COVID card web', name: 'covid2', widget: 'markdown', required: false }
+      - { label: 'Paste COVID card html', name: 'covid1', widget: 'hidden', required: false }
+      - { label: 'Paste COVID card web', name: 'covid2', widget: 'hidden', required: false }
       - { label: 'First promo section', name: 'promo1', widget: 'markdown' }
       - { label: 'Second promo section', name: 'promo2', widget: 'markdown' }
 local_backend: true
