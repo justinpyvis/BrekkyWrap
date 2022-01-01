@@ -29,9 +29,8 @@
     <meta name="twitter:url" content="{{ .Permalink }}" />
     <meta name="twitter:site" content="@brekkywrap" />
     {{ if .IsHome }}
-      <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-      <script async src='https://dash.sparkloop.app/widget/MFe57fb9657c/embed.js' data-sparkloop></script>
-    {{ end }}
+    {{ if not hugo.IsProduction }}<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>{{ else }}<script async src='https://dash.sparkloop.app/widget/MFe57fb9657c/embed.js' data-sparkloop></script>
+    {{ end }}{{ end }}
     <style>
     {{ $newPost := div (sub .PublishDate.Unix 1638480882) 86400 }}
     {{ $oldPost := div (sub .PublishDate.Unix 1629507661) 86400 }}
