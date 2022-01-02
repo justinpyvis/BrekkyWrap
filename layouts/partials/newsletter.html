@@ -1,161 +1,37 @@
-<!-- ONE COLUMN SECTION -->
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-        <td bgcolor="#ffffff" align="center" style="padding: 10px 15px 50px 15px;" class="section-padding">
-            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="responsive-table">
-                <tr>
-                    <td>
-                            <tr>
-                                <td>
-                                    <!-- COPY -->
-                                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td align="center" style="font-size: 30px; line-height: 35px; font-family: Helvetica, Arial, sans-serif; color: #333333;text-align:center;font-weight:700;" class="padding-copy">{{ .Title }}</td>
-                                        </tr>
-                                        <tr>
-                                          <td class="td-padding" align="center" style="border-collapse:collapse;border-spacing:0 !important;font-family:'Open Sans', Helvetica, Arial, sans-serif; vertical-align: top; color: #738a94; font-size: 12px; letter-spacing: 0.2px; text-transform: uppercase; text-align: center; padding-top: 0; padding-left: 18px!important; padding-right: 18px!important; padding-bottom: 0px!important; mso-line-height-rule: exactly; mso-padding-alt: 0 18px 0px 18px;" valign="top">
-                                          {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}<a href="/authors/{{ $author.slug }}/">{{ $author.name }}</a>&nbsp;–&nbsp;{{- end -}}{{ ((.Params.date.UTC).AddDate 0 0 1).Format "02 Jan 2006" }}
-                                          </td>
-                                        </tr>
-                                        <!-- Intro -->
-                                        <tr>
-                                            <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">
-                                            {{ .Params.intro | markdownify }}{{ if .Params.covid1 }}<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">{{ end }}</td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-
+<div class="container">
+    <div class="top">
+        <div class="info-content-wide">
+            <div class="post-content">
+                    <h1 class="info-content-title text-center" style="margin-bottom: 0;">{{ .Title }}</h1>
+                <div style="color: #738a94;font-size: 12px;letter-spacing: 0.2px;text-transform: uppercase;text-align: center;padding-top: 0;margin-bottom: 2em;">Delivered on <time datetime="{{ ((.Params.date.UTC).AddDate 0 0 1).Format "2006-01-02" }}">{{ ((.Params.date.UTC).AddDate 0 0 1).Format "02 Jan 2006" }}</time> {{ $author := index .Site.Data.authors (.Params.author | default "default") }}By&nbsp;{{- if $author -}}<a href="/authors/{{ $author.slug }}/">{{ $author.name }}</a>{{- end -}}</div>
+{{ .Params.intro | markdownify }}
+<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
                             <!-- covid card test -->
 {{ if .Params.covid1 }}
-<tr>
-    <td>
-        <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" class="mobile-button-container">
-            <tr>
-                <td align="center" style="padding: 0;">
-                    <table role="presentation" border="0" cellspacing="0" cellpadding="0" class="responsive-table" width="100%">
-{{ .Params.covid1 | safeHTML }}
-                            {{ if .Params.covid2 }}
-                            {{ .Params.covid2 | safeHTML}}
-                            <!-- web browsers only -->
+                            <div style="padding: 0 0 10px 0;font-size: 16px;line-height: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;font-weight: 700;text-align: center;">
 
-                            <!-- end website only -->
-                            <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0 0;">
-                            {{ end }}
-                                                        </td>
-                                                    </tr>
-                                                </table>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
+{{ .Params.covid1 | safeHTML }}
+</div>
+{{ if .Params.covid2 }}
+{{ .Params.covid2 | safeHTML}}
+<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0 0;">
+{{ end }}
                             <!-- covid card test -->
 {{ end }}
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
 
-<!-- ONE COLUMN W/ BOTTOM IMAGE SECTION -->
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-        <td bgcolor="#f8f8f8" align="center" style="padding: 25px 15px 25px 15px;" class="section-padding">
-            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="responsive-table">
-                <tr>
-                    <td>
-                        <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tr>
-                                <td>
-                                    <!-- COPY -->
-                                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy">Markets</td>
-                                        </tr>
-                                        <tr>
-                                            <td align="center" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">{{ .Params.markets | safeHTML }}</td>
-                                        </tr>
-                                        <tr>
-                                            <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.marketcommentary | markdownify }}</td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
-
+<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Markets</p>
+{{ .Params.markets | safeHTML }}
+{{ .Params.marketcommentary | markdownify }}
 <!-- FEATURE SECTION -->
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-        <td bgcolor="#ffffff" align="center" style="padding: 25px 15px 25px 15px;" class="section-padding">
-            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="responsive-table">
-                <tr>
-                    <td>
-                        <!-- TITLE SECTION AND COPY -->
-                        <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tr>
-                                <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy">Food for thought</td>
-                            </tr>
-                            <tr>
-                                <td>
-                                    <!--  TOP IMAGE -->
-                                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td style="padding: 25px 0 0 0; text-align:center;" align="center">
-                                                <a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
-                                            <span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic">{{ .Params.featureimage.blurb }} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a></span>
-                                            </td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Content }}</td>
-                            </tr>
-                        </table>
-                    </td>
-                </tr>
+<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
+<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Food for thought</p>
+<a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
+<span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic">{{ .Params.featureimage.blurb }} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a></span>
 
-            </table>
-        </td>
-    </tr>
-</table>
-
-
+{{ .Content }}
+<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
 <!-- ONE COLUMN W/ BOTTOM IMAGE SECTION -->
-<table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
-    <tr>
-        <td bgcolor="#f8f8f8" align="center" style="padding: 25px 15px 25px 15px;" class="section-padding">
-            <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" class="responsive-table">
-                <tr>
-                    <td>
-                        <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tr>
-                                <td>
-                                    <!-- COPY -->
-                                    <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
-                                        <tr>
-                                            <td align="center" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy">Still hungry?</td>
-                                        </tr>
-                                        <tr>
-                                            <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.stillhungry | markdownify }}</td>
-                                        </tr>
-                                    </table>
-                                </td>
-                            </tr>
+<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Still hungry?</p>
+{{ .Params.stillhungry | markdownify }}
 
-                        </table>
-                    </td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
+</div></div></div></div>

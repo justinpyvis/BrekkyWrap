@@ -5,12 +5,9 @@
 {{ $oldPost := div (sub .PublishDate.Unix 1629507661) 86400 }}
 {{ if gt $newPost 0 }}
 <!-- Load up the current newsletter template -->
-<div class="container">
-    <div class="top">
-        <div class="info-content-wide">
-            <div class="post-content-new">
+
 {{ partial "newsletter.html" . }}
-</div></div></div></div>
+
 <!-- End the current newsletter -->
 
   <!-- Start formatting for the older layouts -->
