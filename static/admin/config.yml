@@ -1,5 +1,7 @@
 backend:
   name: git-gateway
+# when using the default proxy server port
+local_backend: true
 media_folder: static/images
 public_folder: /images
 collections:
@@ -31,4 +33,3 @@ collections:
       - { label: 'Paste COVID card web', name: 'covid2', widget: 'hidden', required: false }
       - { label: 'First promo section', name: 'promo1', widget: 'markdown' }
       - { label: 'Second promo section', name: 'promo2', widget: 'markdown' }
-local_backend: true
