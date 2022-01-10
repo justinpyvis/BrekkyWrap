@@ -1,6 +1,6 @@
+local_backend: true
 backend:
   name: git-gateway
-local_backend: true
 media_folder: static/images
 public_folder: /images
 collections:
