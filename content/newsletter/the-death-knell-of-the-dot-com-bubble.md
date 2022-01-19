@@ -1,6 +1,6 @@
 ---
 title: The death knell of the dot-com bubble
-date: 2022-01-19T20:36:53.628Z
+date: 2022-01-19T20:40:23.065Z
 description: The government is desperate for fruit pickers and students; there's
   a lot riding on the Fed; UK and Canadian inflation hit a 30-year high; and
   Omicron's a risk to BHP's iron ore.
@@ -38,7 +38,7 @@ marketcommentary: >-
   Locally, the **ASX200** played follow-the-leader and shed -1.03%, with only the energy (+0.6%) and utilities (+0.2%) sectors finishing in the black.
 
 
-  The sell-off was not confined to Australia, with Japan's Topix (-2.75%), China's CSI 300 (-0.77%) and South Korea's Kospi (-0.93%) all losing ground as investors bet on higher borrowing costs going forward.
+  The sell-off was not confined to Australia, with Japan's Topix (-2.97%), China's CSI 300 (-0.68%) and South Korea's Kospi (-0.77%) all losing ground as investors bet on higher borrowing costs going forward.
 featureimage:
   featureimg: /images/everything-bubble.png
   blurb: Autos, corporate debt, credit, cryptos, housing, stocks – it's all so
