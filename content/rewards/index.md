@@ -5,9 +5,9 @@ url: "/rewards/"
 summary: rewards
 ---
 
-<p>Did you know that we have a secret monthly newsletter called the <em>Insider</em>?</p>
+<p>Did you know that we have a secret monthly newsletter called <em>Unwrapped</em>?</p>
 
-<p>Getting access is easy as! All you have to do is convince 3 of your friends or co-workers to sign up to Brekky Wrap and BOOM, you'll automatically receive the next <em>Insider</em> (coming soon™).</p>
+<p>Getting access is easy as! All you have to do is convince 3 of your friends or co-workers to sign up to Brekky Wrap and BOOM, you'll automatically receive the next <em>Unwrapped</em>.</p>
 
 <p>We'll be adding additional perks over time, so be sure to keep those invites coming – any referrals you make will still count towards future rewards. For now we have four reward tiers:</p>
 
