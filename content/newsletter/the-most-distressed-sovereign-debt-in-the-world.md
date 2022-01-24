@@ -34,7 +34,7 @@ marketcommentary: >-
   Locally, the **ASX200** (-0.51%) lost ground for a second straight session, closing at an 8-month low. Tech (-1.58%) once again led the decline, as concerns about interest rates rising everywhere in the world except China fuelled another sell-off of companies with high price-to-sales multiples.
 
 
-  Elsewhere, the **STOXX Europe 600** regional share index fell 3.81% after IHS Markit's [Flash Composite Purchasing Managers' Index](https://www.cnbc.com/2022/01/24/euro-zone-recovery-stuttered-in-jan-as-omicron-hit-services-pmi.html) showed activity growing at its slowest rate for 11 months, with the average prices charged for goods and services rising at the fastest rate since the survey started in 2002, suggesting inflation may continue to be a problem in Europe as well.
+  Elsewhere, the **STOXX Europe 600** regional share index fell -3.81% after IHS Markit's [Flash Composite Purchasing Managers' Index](https://www.cnbc.com/2022/01/24/euro-zone-recovery-stuttered-in-jan-as-omicron-hit-services-pmi.html) showed activity growing at its slowest rate for 11 months, with the average prices charged for goods and services rising at the fastest rate since the survey started in 2002, suggesting inflation may continue to be a problem in Europe as well.
 featureimage:
   featureimg: /images/el-salvador-bonds-2050.png
   blurb: '"El Salvador now has the most distressed sovereign debt in the world."'
