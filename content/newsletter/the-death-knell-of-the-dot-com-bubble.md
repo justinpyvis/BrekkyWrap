@@ -899,7 +899,7 @@ promo2: "                            <tr>\r
 ---
 Did you know that the last time the US Federal Reserve (Fed) hiked interest rates by more than 25 basis points was way back in [May 2000](https://www.marketwatch.com/story/investors-return-from-three-day-break-to-a-market-bracing-for-more-aggressive-start-to-federal-reserves-rate-hike-campaign-11642528065), which was also the death knell of the dot-com bubble?
 
-The Nasdaq index peaked in March 2020, three months after the Fed started its tightening cycle. The bubble was so big and the crash so severe that it took the index 14 years to recover.
+The Nasdaq index peaked in March 2000, three months after the Fed started its tightening cycle. The bubble was so big and the crash so severe that it took the index 14 years to recover.
 
 The reason we bring that uncomfortable piece of history up is because markets are now [pricing in](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html) at least four 25 basis point hikes within a year, with the odds of a 25-50 point hike in March rising to 93.7%. 
 
