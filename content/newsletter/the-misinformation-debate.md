@@ -44,7 +44,7 @@ stillhungry: >-
   podcaster Joe Rogan from the streaming platform."
 
 
-  🦠 WA's strict close contact isolation rules mean mining giant BHP has so far [lost around 70 workers](https://www.abc.net.au/news/2022-01-31/wa-covid-update-as-omicron-hits-bhp-mine-site/100791970) for the next 14 days after a single worker tested positive for Omicron at a mining camp in WA's north. 
+  🦠 WA's strict close contact isolation rules mean mining giant BHP has so far [lost around 70 workers](https://www.abc.net.au/news/2022-01-31/wa-covid-update-as-omicron-hits-bhp-mine-site/100791970) for up to the next 14 days after a single worker tested positive for Omicron at a mining camp in WA's north. 
 
 
   🚚 Prominent WA figure Richard Goyder – chairman of Qantas, AFL, and Perth-based Woodside – is [packing up](https://www.afr.com/politics/richard-goyder-is-leaving-perth-indefinitely-20220130-p59sbs) and moving to Melbourne "indefinitely" because "I just feel I want to take control of my life. All my business colleagues in the east, other than restrictions that we also have here, their life is returning to normality."
