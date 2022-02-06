@@ -1,6 +1,6 @@
 ---
 title: Israel's rise in deaths
-date: 2022-02-06T20:39:05.676Z
+date: 2022-02-06T20:41:31.772Z
 description: We took a look at Israel's most deadly wave of COVID-19; the leaked
   text message scandal got juicier; markets notched up their best week in
   months; and the RBA expects inflation.
