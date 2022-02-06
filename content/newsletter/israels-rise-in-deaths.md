@@ -35,8 +35,8 @@ marketcommentary: >-
   Locally, the **ASX200** gained 0.59% to notch up its biggest weekly gain since December, propelled by Amazon's positive after-the-bell earnings report which eased fears of a tech-tagion after Meta's horrific showing the day before.
 featureimage:
   featureimg: /images/israel-seriously-ill-feb-21.png
-  blurb: More vaccinated than unvaccinated are dying but only because there are a
-    lot more of them.
+  blurb: More vaccinated than unvaccinated are getting sick but only because there
+    are a lot more of them.
   source: https://datadashboard.health.gov.il/COVID-19/general?tileName=VaccinationStatusAgg
 stillhungry: >-
   ⛷️ Jakara Anthony [won
