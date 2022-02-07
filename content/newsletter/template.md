@@ -5,8 +5,8 @@ description: Must have between 50 and 250 characters in the description.
 author: justin
 intro: Good morning! Text here.
 marketcommentary: |-
-  At the time of writing the **US S&P500** was \
-  \
+  At the time of writing the **US S&P500** was 
+
   Locally, the **ASX200**
 featureimage:
   featureimg: /images/brekky-wrap-email.png
@@ -153,8 +153,8 @@ promo2: "                            <tr>\r
   #333333;\" class=\"padding-copy\">
 
 
-  <p>P.S. You have referred <strong>{{subscriber.rh_totref}}</strong> people
-  so far. <a
+  <p>You have referred <strong>{{subscriber.rh_totref}}</strong> people so
+  far. <a
   href=\"https://hub.brekkywrap.com/?subscriber_id={{subscriber.rh_subid}}\"
   style=\"color: #565e76; text-decoration: underline;\" target=\"_blank\"
   title=\"Invite your friends!\">Check your reward status here</a>.</p></td>\r

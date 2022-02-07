@@ -75,7 +75,7 @@ stillhungry: >-
   🤷‍♂️ [2052](https://twitter.com/AnthDeCeglie/status/1489555829753724929)? Federal Finance Minister Simon Birmingham [asked WA Premier Mark McGowan](https://www.skynews.com.au/australia-news/politics/finance-minister-urges-mark-mcgowan-to-look-east-for-motivation-to-reopen-harsh-borders-calls-on-premier-to-set-reopening-date/news-story/297e30bc4f13bf77eaa91e3ff06d03ae) when he will open the state's border: "The question of 'if not now, when?' remains. If not under these circumstances, under what circumstances?"
 
 
-  🌊 The SAS released [drone footage](https://twitter.com/SA_SES/status/1489393194492071937) of flood-damaged roads in in Glendambo, SA.
+  🌊 The SAS released [drone footage](https://twitter.com/SA_SES/status/1489393194492071937) of flood-damaged roads in Glendambo, SA.
 
 
   🛑 Five of UK PM Boris Johnson's top aides [resigned](https://www.standard.co.uk/news/uk/former-minister-nick-gibb-calls-boris-johnson-prime-minister-resign-partygate-b980881.html) within 24 hours of each other "following a week of turmoil at No 10".
