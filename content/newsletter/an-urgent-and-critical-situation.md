@@ -39,7 +39,7 @@ stillhungry: >-
   🗣️ WA Premier Mark McGowan
   [announced](https://thewest.com.au/news/wa/covid-in-wa-wa-border-announcement-expected-this-month-as-cases-remain-high-c-5702191)
   that he would make another announcement later this month as to when WA's
-  border reopening will take place. For reals this time.
+  border reopening will take place. For realsies this time.
 
 
   ✈️ Qantas [will continue](https://www.skynews.com.au/australia-news/qantas-forced-to-extend-double-daily-direct-flights-from-darwin-to-london-over-western-australias-border-closure/news-story/016c8fc5741f062deac842dad73c606e) to fly out of Darwin instead of Perth on its direct flights from Australia to London until at least June 2022 due to "ongoing uncertainty around the reopening of the WA border".
