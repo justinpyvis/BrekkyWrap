@@ -23,12 +23,13 @@
 {{ .Params.markets | safeHTML }}
 {{ .Params.marketcommentary | markdownify }}
 <!-- FEATURE SECTION -->
+{{if le (len .Content) 13}}{{else}}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
 <p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Food for thought</p>
-<a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
-<div class="text-center"><span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic">{{ .Params.featureimage.blurb }} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a></span></div>
-
+{{ if .Params.featureimage.featureimg }}<a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
+<div class="text-center"><span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic">{{ .Params.featureimage.blurb }} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a></span></div>{{end}}
 {{ .Content }}
+{{end}}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
 <!-- ONE COLUMN W/ BOTTOM IMAGE SECTION -->
 <p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Still hungry?</p>

@@ -22,9 +22,9 @@ collections:
         name: "featureimage"
         widget: "object"
         fields:
-          - {label: 'Feature image', name: 'featureimg', widget: 'image', choose_url: true, allow_multiple: false}
-          - {label: "Blurb", name: "blurb", widget: "string"}
-          - {label: "Source", name: "source", widget: "string"}
+          - {label: 'Feature image', name: 'featureimg', widget: 'image', choose_url: true, allow_multiple: false, required: false}
+          - {label: "Blurb", name: "blurb", widget: "string", required: false}
+          - {label: "Source", name: "source", widget: "string", required: false}
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
       - { label: 'Paste price table', name: 'markets', widget: 'markdown' }

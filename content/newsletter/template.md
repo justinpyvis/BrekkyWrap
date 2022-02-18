@@ -7,11 +7,11 @@ intro: Good morning! Text here.
 marketcommentary: |-
   At the time of writing the **US S&P500** was 
 
-  Locally, the **ASX200**
+  Locally, the **ASX200** ...
 featureimage:
-  featureimg: /images/brekky-wrap-email.png
-  blurb: This is a test blurb
-  source: https://brekkywrap.com
+  featureimg: ""
+  blurb: ""
+  source: ""
 stillhungry: |-
   😀 Text
 
@@ -175,4 +175,4 @@ promo2: "                            <tr>\r
 
   \                            </tr>"
 ---
-Text here. Try to **bold key points**. Cover the days data releases if you can (or drop them into the below box if they don't flow / too many).
+Empty
