@@ -27,6 +27,13 @@ collections:
           - {label: "Source", name: "source", widget: "string", required: false}
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Still hungry?', name: 'stillhungry', widget: 'markdown' }
+      - label: "No words needed"
+        name: "nowordsneeded"
+        widget: "object"
+        fields:
+          - {label: 'Random image of the day', name: 'nowordsneeded', widget: 'image', choose_url: true, allow_multiple: false, required: false}
+          - {label: "Describe it", name: "description", widget: "string", required: false}
+          - {label: "URL", name: "link", widget: "string", required: false}
       - { label: 'Paste price table', name: 'markets', widget: 'markdown' }
       - { label: 'Paste COVID card html', name: 'covid1', widget: 'hidden', required: false }
       - { label: 'Paste COVID card web', name: 'covid2', widget: 'hidden', required: false }
