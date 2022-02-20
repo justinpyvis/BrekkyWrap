@@ -23,7 +23,7 @@
 {{ .Params.markets | safeHTML }}
 {{ .Params.marketcommentary | markdownify }}
 <!-- FEATURE SECTION -->
-{{if ge (len .Content) 13}}
+{{if ge (len .Content) 20}}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
 <p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Food for thought</p>
 {{ if .Params.featureimage.featureimg }}<a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
@@ -32,8 +32,8 @@
 {{end}}
 {{ if .Params.nowordsneeded }}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
-<div class="text-center">
 <p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Chewing the fat</p>
+<div class="text-center">
 <a href="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" width="500" border="0" alt="{{ .Params.nowordsneeded.description }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a><span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic;"><a href="{{ .Params.nowordsneeded.link }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">{{ .Params.nowordsneeded.description }}</a>.</span>
 </div>
 {{ end }}
