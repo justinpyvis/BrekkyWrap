@@ -238,7 +238,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Markets</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; -webkit-text-decoration-color: #ffc900; text-decoration-color: #ffc900; text-underline-color: #ffc900;" class="padding-copy-text">Markets</td>
                                         </tr>
                                         <tr>
                                             <td align="center" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy">{{ .Params.markets | safeHTML }}
@@ -259,7 +259,7 @@
     </tr>
 </table>
 {{ end }}
-{{if le (len .Content) 13}}{{else}}
+{{if ge (len .Content) 13}}
 <!-- FEATURE SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
@@ -270,7 +270,7 @@
                         <!-- TITLE SECTION AND COPY -->
                         <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tr>
-                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Food for thought</td>
+                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; -webkit-text-decoration-color: #ffc900; text-decoration-color: #ffc900; text-underline-color: #ffc900;" class="padding-copy-text">Food for thought</td>
                             </tr>
                             {{ if .Params.featureimage.featureimg }}<tr>
                                 <td>
@@ -300,14 +300,14 @@
 {{ if .Params.nowordsneeded }}
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td bgcolor="{{ if (le (len .Content) 13) }}#ffffff{{else}}#f8f8f8{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
+        <td bgcolor="{{ if not ((ge (len .Content) 13)) }}#ffffff{{else}}#f8f8f8{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="500" class="responsive-table">
                 <tr>
                     <td>
                         <!-- TITLE SECTION AND COPY -->
                         <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                             <tr>
-                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">No words needed</td>
+                                <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; -webkit-text-decoration-color: #ffc900; text-decoration-color: #ffc900; text-underline-color: #ffc900;" class="padding-copy-text">No words needed</td>
                             </tr>
                             <tr>
                                 <td>
@@ -333,7 +333,7 @@
 <!-- ONE COLUMN SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td bgcolor="{{ if and (not (le (len .Content) 13)) (not (.Params.nowordsneeded)) }}#f8f8f8{{else}}#ffffff{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
+        <td bgcolor="{{ if and (ge (len .Content) 13) (not (.Params.nowordsneeded)) }}#f8f8f8{{else}}#ffffff{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="500" class="responsive-table">
                 <tr>
                     <td>
@@ -343,7 +343,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Still hungry?</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; -webkit-text-decoration-color: #ffc900; text-decoration-color: #ffc900; text-underline-color: #ffc900;" class="padding-copy-text">Still hungry?</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.stillhungry | markdownify }}</td>
@@ -364,7 +364,7 @@
 <!-- ONE COLUMN SECTION -->
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td bgcolor="{{ if and (not (le (len .Content) 13)) (not (.Params.nowordsneeded)) }}#ffffff{{else}}#f8f8f8{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
+        <td bgcolor="{{ if and (ge (len .Content) 13) (not (.Params.nowordsneeded)) }}#ffffff{{else}}#f8f8f8{{end}}" align="center" style="padding: 40px 15px 40px 15px;" class="section-padding">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="500" class="responsive-table">
                 <tr>
                     <td>
@@ -374,7 +374,7 @@
                                     <!-- COPY -->
                                     <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0">
                                         <tr>
-                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; text-decoration-color: #ffc900;" class="padding-copy-text">Share the love, get rewarded</td>
+                                            <td align="left" style="font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333; text-decoration: underline; -webkit-text-decoration-color: #ffc900; text-decoration-color: #ffc900; text-underline-color: #ffc900;" class="padding-copy-text">Share the love, get rewarded</td>
                                         </tr>
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">{{ .Params.promo2 | safeHTML }}</td>
@@ -393,7 +393,7 @@
 {{ end }}
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
     <tr>
-        <td bgcolor="{{ if and (not (le (len .Content) 13)) (not (.Params.nowordsneeded)) }}#f8f8f8{{else}}#ffffff{{end}}" align="center">
+        <td bgcolor="{{ if and (ge (len .Content) 13) (not (.Params.nowordsneeded)) }}#f8f8f8{{else}}#ffffff{{end}}" align="center">
             <table role="presentation" width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
                 <tr>
                     <td style="padding: 20px 0px 20px 0px;">
