@@ -27,7 +27,7 @@ collections:
           - {label: "Source", name: "source", widget: "string", required: false}
       - { label: 'Food for thought', name: 'body', widget: 'markdown' }
       - { label: 'Bits and bytes', name: 'stillhungry', widget: 'markdown' }
-      - label: "No words needed"
+      - label: "Chewing the fat"
         name: "nowordsneeded"
         widget: "object"
         fields:

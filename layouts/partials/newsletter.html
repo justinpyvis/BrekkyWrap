@@ -19,7 +19,7 @@
                             <!-- covid card test -->
 {{ end }}
 
-<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Markets</p>
+<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Reading the tea leaves</p>
 {{ .Params.markets | safeHTML }}
 {{ .Params.marketcommentary | markdownify }}
 <!-- FEATURE SECTION -->
@@ -32,8 +32,10 @@
 {{end}}
 {{ if .Params.nowordsneeded }}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
-<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">No words needed</p>
-<a href="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" width="500" border="0" alt="{{ .Params.nowordsneeded.description }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a>
+<div class="text-center">
+<p style="font-size: 25px;font-family: Helvetica, Arial, sans-serif;color: #333333;text-decoration: underline;text-decoration-color: #ffc900">Chewing the fat</p>
+<a href="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.nowordsneeded.nowordsneeded | absURL }}" width="500" border="0" alt="{{ .Params.nowordsneeded.description }}" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px; margin-left: auto; margin-right: auto;"></a><span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic;"><a href="{{ .Params.nowordsneeded.link }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">{{ .Params.nowordsneeded.description }}</a>.</span>
+</div>
 {{ end }}
 <hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 0;">
 <!-- ONE COLUMN W/ BOTTOM IMAGE SECTION -->
