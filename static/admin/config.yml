@@ -32,7 +32,7 @@ collections:
         widget: "object"
         fields:
           - {label: 'Random image of the day', name: 'nowordsneeded', widget: 'image', choose_url: true, allow_multiple: false, required: false}
-          - {label: "Describe it", name: "description", widget: "string", required: false}
+          - {label: "Source", name: "description", widget: "string", required: false}
           - {label: "URL", name: "link", widget: "string", required: false}
       - { label: 'Paste price table', name: 'markets', widget: 'markdown' }
       - { label: 'Paste COVID card html', name: 'covid1', widget: 'hidden', required: false }
