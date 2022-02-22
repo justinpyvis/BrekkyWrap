@@ -55,10 +55,11 @@ promo1: "                            <tr>\r
   Helvetica, Arial, sans-serif; color: #333333;font-style:italic;\"
   class=\"padding-copy\">\r
 
-  \                                                      <p>Forwarded this
-  email? Brekky Wrap is an easily digestible summary of the latest market,
-  economic, political and tech news from Australia and beyond.<br><br>Delivered
-  daily, Monday to Friday, for free.</td>\r
+  \                                                      <p>Brekky Wrap is an
+  easily digestible summary of the latest market, economic, political and tech
+  news from Australia and beyond.<br><br>Delivered daily, Monday to Friday, for
+  free. If you were forwarded this email you can subscribe using the button
+  below. 👇</td>\r
 
   \                                                  </tr>\r
 
