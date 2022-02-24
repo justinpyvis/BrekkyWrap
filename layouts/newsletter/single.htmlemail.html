@@ -279,7 +279,7 @@
                                         <tr>
                                             <td style="padding: 25px 0 0 0; text-align:center;" align="center">
                                                 <a href="{{ .Params.featureimage.featureimg | absURL }}" title="Click to view larger version" target="_blank"><img src="{{ .Params.featureimage.featureimg | absURL }}" width="500" border="0" alt="{{ .Params.featureimage.blurb }}" class="img-max" style="display: block; padding: 0; font-family: Helvetica, Arial, sans-serif; color: #333333; width: 500px;"></a>
-                                            <span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic;">{{ .Params.featureimage.blurb }} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a></span>
+                                            <span style="font-size: 14px; line-height: 22px; font-family: Helvetica, Arial, sans-serif; color: #333333; font-style:italic;">{{ .Params.featureimage.blurb }}{{if .Params.featureimage.source}} <a href="{{ .Params.featureimage.source }}" style="color: #333333; text-decoration: underline;" target="_blank" title="View source">Source</a>{{end}}</span>
                                             </td>
                                         </tr>
                                     </table>
