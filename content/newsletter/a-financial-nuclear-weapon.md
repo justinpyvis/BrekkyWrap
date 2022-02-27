@@ -2,7 +2,7 @@
 title: A financial nuclear weapon
 date: 2022-02-27T20:45:56.410Z
 description: Russia's invasion is facing strong Ukrainian resistance; the West
-  cut Russia off from SWIFT; Australia will send Ukraine lethal aid; and
+  will cut Russia off from SWIFT; Australia will send Ukraine lethal aid; and
   Brisbane is facing serious flooding.
 author: justin
 intro: >-
