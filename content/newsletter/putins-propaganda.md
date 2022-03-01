@@ -184,8 +184,8 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \r
 
   \ 
-  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  0.1%</span></p>\r
+  style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
+  0.8%</span></p>\r
 
   \  </td>\r
 
@@ -293,7 +293,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  3.0%</span></p>\r
+  5.2%</span></p>\r
 
   \  </td>\r
 
@@ -401,7 +401,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  1.4%</span></p>\r
+  0.7%</span></p>\r
 
   \  </td>\r
 
@@ -455,7 +455,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
-  1.9%</span></p>\r
+  1.6%</span></p>\r
 
   \  </td>\r
 
@@ -510,7 +510,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  7.0%</span></p>\r
+  4.5%</span></p>\r
 
   \  </td>\r
 
@@ -564,7 +564,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  2.8%</span></p>\r
+  2.2%</span></p>\r
 
   \  </td>\r
 
@@ -619,7 +619,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  8.3%</span></p>\r
+  4.0%</span></p>\r
 
   \  </td>\r
 
@@ -673,7 +673,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  16.6%</span></p>\r
+  1.6%</span></p>\r
 
   \  </td>\r
 
@@ -727,7 +727,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \ 
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
-  13.6%</span></p>\r
+  1.5%</span></p>\r
 
   \  </td>\r
 
