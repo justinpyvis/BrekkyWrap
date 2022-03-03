@@ -33,7 +33,7 @@ marketcommentary: >-
   While many commodity prices took a breather overnight, as a whole they remain on track for the biggest weekly rally in more than 50 years. Yesterday the Brent crude price briefly topped $US118 a barrel, the highest level since February 2013, while the price of a bushel of wheat climbed above $US11 for the first time since 2008.
 featureimage:
   featureimg: /images/putin_security_meeting.jpg
-  blurb: "Russia's oligarchs lost any political power they may have wielded a long
+  blurb: "Russia's elites lost any political power they may have wielded a long
     time ago, with one man quite literally calling the shots: Putin."
   source: https://www.bbc.com/news/world-europe-60573261
 stillhungry: >-
