@@ -930,7 +930,7 @@ This outcome has advantages for the West, as:
 
 > "It keeps Moscow tied down in its own near-abroad, it keeps Europe focused on the necessity of rearmament and energy independence, and it undermines Putin’s rule slowly without the risk of a coup."
 
-However, it also "it also leaves most of Ukraine under Russia’s boot and keeps people fighting and dying for years if not decades... \[and] basically guarantee that the current Russia-China alignment becomes a true axis".
+However, "it also leaves most of Ukraine under Russia’s boot and keeps people fighting and dying for years if not decades... \[and] basically guarantee that the current Russia-China alignment becomes a true axis".
 
 3. A swift cease-fire followed by peace on not-entirely-ideal terms.
 
