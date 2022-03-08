@@ -17,6 +17,13 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string', pattern: ['^.{50,180}$', "Must have between 50 and 180 characters"] }
       - { label: 'Author', name: 'author', widget: 'select', options: ["justin", "admin"] }
       - { label: 'Introduction', name: 'intro', widget: 'markdown' }
+      - label: "Intro image"
+        name: "introimage"
+        widget: "object"
+        fields:
+          - {label: 'Intro image', name: 'introimg', widget: 'image', choose_url: true, allow_multiple: false, required: false}
+          - {label: "Summary", name: "imgsummary", widget: "string", required: false}
+          - {label: "URL Source", name: "urlsource", widget: "string", required: false}
       - { label: 'Markets', name: 'marketcommentary', widget: 'markdown' }
       - label: "Feature image"
         name: "featureimage"
@@ -31,7 +38,7 @@ collections:
         name: "nowordsneeded"
         widget: "object"
         fields:
-          - {label: 'Random image of the day', name: 'nowordsneeded', widget: 'image', choose_url: true, allow_multiple: false, required: false}
+          - {label: 'Random image of the day', name: 'nowordsimg', widget: 'image', choose_url: true, allow_multiple: false, required: false}
           - {label: "Source", name: "description", widget: "string", required: false}
           - {label: "URL", name: "link", widget: "string", required: false}
       - { label: 'Paste price table', name: 'markets', widget: 'markdown' }
