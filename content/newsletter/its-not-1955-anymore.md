@@ -63,7 +63,7 @@ stillhungry: >-
   💸 After Russian state media was banned from purchasing adverts on Facebook, China's propaganda machine [has stepped up](https://www.axios.com/chinas-state-media-meta-facebook-ads-russia-623763df-c5fb-46e4-a6a8-36b607e1b672.html), using "state channels to buy ads pushing a pro-Russian line".
 
 
-  🤥 China's Global Times [yesterday reported](https://twitter.com/kerrya11en/status/1501485454134292483) that "large convoys from Russia are delivering humanitarian aid to to the Donbas region".
+  🤥 China's Global Times [yesterday reported](https://twitter.com/kerrya11en/status/1501485454134292483) that "large convoys from Russia are delivering humanitarian aid to the Donbas region".
 
 
   🤪 Asked whether Russia would attack other countries, Russia's Minister for Foreign Affairs Sergeĭ Lavrov [said](https://www.reddit.com/r/interestingasfuck/comments/taxojr/absolute_peak_russia_asked_whether_it_was/) "We are not planning to attack other countries. We didn't attack Ukraine in the first place."
@@ -948,7 +948,7 @@ When she was eventually caught out it was the "dishonest CEO" of the Russian fac
 
 The hollowing out of Russia's economy has left it more vulnerable to sanctions, and Putin will be suffering significantly greater economic losses than he would have expected before deciding to invade Ukraine. 
 
-Even iconic car manufacturer Lada – famous for operating during the Cold War despite harsh sanctions – was forced to halt [halt production](https://twitter.com/KyivIndependent/status/1501699893576048643) yesterday because "it could not source the necessary parts and supplies" (see image below).
+Even iconic car manufacturer Lada – famous for operating during the Cold War despite harsh sanctions – was forced to [halt production](https://twitter.com/KyivIndependent/status/1501699893576048643) yesterday because "it could not source the necessary parts and supplies" (see image below).
 
 It's not 1955 anymore and this time Putin may have bitten off more than he can chew. Given the unsustainability of this war – and assuming Ukraine continues to hold out – Putin probably faces two choices: double down by escalating the situation, for example by cutting exports to the west or increasing the violence in Ukraine, or make some concessions and sign a peace treaty. 
 
