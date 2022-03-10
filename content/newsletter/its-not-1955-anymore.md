@@ -950,6 +950,6 @@ The hollowing out of Russia's economy has left it more vulnerable to sanctions, 
 
 Even iconic car manufacturer Lada – famous for operating during the Cold War despite harsh sanctions – was forced to halt [halt production](https://twitter.com/KyivIndependent/status/1501699893576048643) yesterday because "it could not source the necessary parts and supplies" (see image below).
 
-It's not 1955 anymore and this time Putin may have bitten off more than he can chew. Given the unsustainability of this war, he probably faces two choices: double down by escalating the situation, for example by cutting exports to the west or increasing the violence in Ukraine, or make some concessions and sign a peace treaty. 
+It's not 1955 anymore and this time Putin may have bitten off more than he can chew. Given the unsustainability of this war – and assuming Ukraine continues to hold out – Putin probably faces two choices: double down by escalating the situation, for example by cutting exports to the west or increasing the violence in Ukraine, or make some concessions and sign a peace treaty. 
 
 We just hope he chooses the latter. 🤞
