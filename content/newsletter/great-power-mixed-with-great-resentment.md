@@ -937,7 +937,7 @@ As for the war in Ukraine itself, Putin and the *siloviki*  believe it:
 
 > "...will consolidate patriotic feeling in Russia behind their rule, as well as permitting them to engage in intensified repression in the name of support for the war effort. This repression has already begun, with the closing of Russia’s last remaining independent media and laws punishing as treason any criticism of the war."
 
-Putin and the *siloviki* are "are utterly, irrevocably committed to the idea of Russia as a great power and one pole of a multipolar world... Without Ukraine, Russia ceases to be a Eurasian empire".
+Putin and the *siloviki* "are utterly, irrevocably committed to the idea of Russia as a great power and one pole of a multipolar world... Without Ukraine, Russia ceases to be a Eurasian empire".
 
 That means they are "prepared, if necessary, to fight on ruthlessly for a long time, and at immense cost and risk to their regime", to prevent Ukrainian nationalism and independence, which they perceive as "a key element in Washington’s anti-Russian strategy".
 
