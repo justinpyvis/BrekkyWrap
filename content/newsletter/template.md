@@ -5,7 +5,7 @@ description: Must have between 50 and 250 characters in the description.
 author: justin
 intro: Good morning! Text here.
 marketcommentary: |-
-  At the time of writing the **US S&P500** was 
+  The **US S&P500** fell ...
 
   Locally, the **ASX200** ...
 featureimage:
