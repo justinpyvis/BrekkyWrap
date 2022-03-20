@@ -1,6 +1,6 @@
 ---
 title: Revising down China
-date: 2022-03-20T20:33:49.841Z
+date: 2022-03-20T20:37:53.994Z
 description: South Australia has a new Premier; markets shrug off
   Russia/Ukraine; China's growth substantially revised down; and Xi Jinping is
   slowly abandoning COVID-zero.
@@ -33,7 +33,8 @@ marketcommentary: >-
   Locally, the **ASX200** gained 0.60% on Friday to cap off its best week in over a year, led by energy (+2.22%) following the surge in a price of oil the night before.
 featureimage:
   featureimg: /images/lowy-china-growth-mar-22.png
-  blurb: Text
+  blurb: In terms of demographics, China is well behind where other catch-up
+    nations were ahead of strong periods of economic growth.
   source: https://www.lowyinstitute.org/publications/revising-down-rise-china
 stillhungry: >-
   🗣️ First step to abandoning the policy? China's President Xi Jinping
