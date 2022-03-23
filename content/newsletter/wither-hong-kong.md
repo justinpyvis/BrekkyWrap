@@ -30,7 +30,7 @@ marketcommentary: >-
   obvious, market-moving data releases. 
 
 
-  Oil shot up yet again after Russia's President Vladimir Putin [announced](https://uk.finance.yahoo.com/news/putin-tells-europe-pay-gas-165756324.html) that "I have decided to implement a set of measures to transfer payment for our gas supplies to unfriendly countries into Russian rubles", raising the prospect of an embargo.
+  However, oil shot up yet again after Russia's President Vladimir Putin [announced](https://uk.finance.yahoo.com/news/putin-tells-europe-pay-gas-165756324.html) that "I have decided to implement a set of measures to transfer payment for our gas supplies to unfriendly countries into Russian rubles", raising the prospect of an embargo.
 
 
   Locally, the **ASX200** gained 0.50% to close at a nine-week high in a broad-based rise, with only the materials sector (-0.39%) giving up some of its recent gains. A standout performer outside the top 200 was Adrea Resources (+36.4%) after its Kalgoorlie, WA nickel exploration project [was given](https://ardearesources.com.au/announcements) "Major Project Status" by the federal government.
@@ -895,9 +895,9 @@ promo2: "                            <tr>\r
 ---
 Hong Kong's government will ease some of its pandemic restrictions from the end of next month, although Chief Executive Carrie Lam [made it clear](https://www.scmp.com/news/hong-kong/health-environment/article/3171320/coronavirus-hong-kong-ease-tough-pandemic-control) that Hong Kong would not be moving to a "living with the virus" strategy.
 
-That's because it can't. After successfully running a 'COVID-free' strategy for the better part of two years, Omicron eventually snuck in and has subsequently decimated the city's vulnerable population. Hong Kong's total death toll (per million) is [now well above](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&uniformYAxis=0&pickerSort=asc&pickerMetric=location&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~GBR~CAN~DEU~ITA~HKG~AUS~NZL) that of Australia's, will overtake Canada in the coming days and might eventually even rival some of the worst hit countries, such as Italy, the US and UK.
+That's because it can't. When Omicron hit Hong Kong, nearly 70% of people aged 80+ were still unvaccinated. Many of the vaccinated had also received China's Sinovac vaccine, [which invokes](https://www.nature.com/articles/d41586-022-00079-6) a "sub-optimal" immune response, making it less effective Omicron than mRNA vaccines such as those developed by Pfizer and Moderna.
 
-When Omicron hit Hong Kong, nearly 70% of people aged 80+ were still unvaccinated. Many of the vaccinated had also received China's Sinovac vaccine, [which invokes](https://www.nature.com/articles/d41586-022-00079-6) a "sub-optimal" immune response, making it less effective Omicron than mRNA vaccines such as those developed by Pfizer and Moderna.
+After successfully running a 'COVID-free' strategy for the better part of two years, Omicron eventually snuck in and has subsequently decimated the city's vulnerable population. Hong Kong's total death toll (per million) is [now well above](https://ourworldindata.org/explorers/coronavirus-data-explorer?zoomToSelection=true&time=2020-03-01..latest&facet=none&uniformYAxis=0&pickerSort=asc&pickerMetric=location&Metric=Confirmed+deaths&Interval=Cumulative&Relative+to+Population=true&Color+by+test+positivity=false&country=USA~GBR~CAN~DEU~ITA~HKG~AUS~NZL) that of Australia's, will overtake Canada in the coming days and might eventually even rival some of the worst hit countries, such as Italy, the US and UK.
 
 If Lam moved to "living with the virus", the city's already-overwhelmed hospital system could collapse. It would also be a point of contention in mainland China – which, let's be honest, now calls the shots in Hong Kong – where an elderly vaccination rate of [around 50%](https://twitter.com/ImJames_K/status/1502625265004027910) isn't much better than Hong Kong's.
 
