@@ -16,7 +16,22 @@ summary: faq
 <h3>Q: How often do you publish?</h3>
 <p>Every Monday to Friday. The exact delivery time varies by season due to daylight savings but we aim to publish every Wrap before 5:00am Australian Western Standard Time.</p>
 
-<p>We do not publish on Australian public holidays and usually take a few weeks off every year around Christmas, which we'll broadcast well in advance. During quiet times the size of the Wrap may be reduced, although we've yet to encounter any of those!</p>
+<p>We do not publish on Australian public holidays and usually take a few weeks off every year, which we'll broadcast well in advance on this page. During quiet times the size of the Wrap may be reduced, although we've yet to encounter any of those!</p>
+
+<h4>Confirmed non-publishing days in 2022:</h4>
+
+<ul style="list-style-type:none; margin:0;">
+<li style="margin:0;">03 – 07 January</li>
+<li style="margin:0;">26 January</li>
+<li style="margin:0;">07 March</li>
+<li style="margin:0;">15 – 18 April</li>
+<li style="margin:0;">25 April</li>
+<li style="margin:0;">06 June</li>
+<li style="margin:0;">04 – 22 July</li>
+<li style="margin:0;">26 September</li>
+<li style="margin:0;">03 October</li>
+<li style="margin:0 0 1em 0;">19 – 30 December</li>
+</ul>
 
 <h3>Q: Nothing's truly free – what's the catch?</h3>
 <p>Brekky Wrap will always be free. However, at some point in the future we may need to partner with sponsors, affiliates or charge a fee for a premium service. But never fear, we'll communicate any changes well before implementation and you'll always be free to opt out by clicking the "unsubscribe" link at the bottom of any email (but we'll miss you! 😞).</p>
