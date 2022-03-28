@@ -27,6 +27,7 @@ summary: faq
 <li style="margin:0;">15 – 18 April</li>
 <li style="margin:0;">25 April</li>
 <li style="margin:0;">06 June</li>
+<li style="margin:0;">13 June</li>
 <li style="margin:0;">04 – 22 July</li>
 <li style="margin:0;">26 September</li>
 <li style="margin:0;">03 October</li>
@@ -38,4 +39,4 @@ summary: faq
 
 <p>For details on what personal info we collect, please have a read of our short <a href="https://brekkywrap.com/privacy/">Privacy Policy</a>.</p>
 <hr>
-<p>If you have any other questions, please shoot us an email at <a href="mailto:support@brekkywrap.com">support@brekkywrap.com</a> and one of our staff will be in touch.</p>
+<p>If you have any other questions, please shoot us an email at <a href="mailto:support@brekkywrap.com">support@brekkywrap.com</a> and we'll be in touch.</p>
