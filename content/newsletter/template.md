@@ -66,14 +66,13 @@ promo1: "                            <tr>\r
   \                                                    <tr>\r
 
   \                                                        <td
-  align=\"center\"><a href=\"https://brekkywrap.com/?rh_ref={{
-  subscriber.rh_code }}\" target=\"_blank\" style=\"font-size: 14px;
-  font-family: Helvetica, Arial, sans-serif; font-weight: normal; color:
-  #ffffff; text-decoration: none; background-color: #234688; border-top: 15px
-  solid #234688; border-bottom: 15px solid #234688; border-left: 25px solid
-  #234688; border-right: 25px solid #234688; border-radius: 3px;
-  -webkit-border-radius: 3px; -moz-border-radius: 3px; display: inline-block;\"
-  class=\"mobile-button\">Sign up now &rarr;</a></td>\r
+  align=\"center\"><a href=\"{{subscriber.rh_reflink}}\" target=\"_blank\"
+  style=\"font-size: 14px; font-family: Helvetica, Arial, sans-serif;
+  font-weight: normal; color: #ffffff; text-decoration: none; background-color:
+  #234688; border-top: 15px solid #234688; border-bottom: 15px solid #234688;
+  border-left: 25px solid #234688; border-right: 25px solid #234688;
+  border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px;
+  display: inline-block;\" class=\"mobile-button\">Sign up now &rarr;</a></td>\r
 
   \                                                    </tr>\r
 
@@ -121,11 +120,9 @@ promo2: "                            <tr>\r
 
 
   <p style=\"margin-top: 0px;margin-bottom: 20px;line-height:
-  150%;text-align:center;\"><a
-  href=\"https://brekkywrap.com/?rh_ref={{subscriber.rh_code}}\" style=\"color:
+  150%;text-align:center;\"><a href=\"{{subscriber.rh_reflink}}\" style=\"color:
   #565e76; text-decoration: underline;\" target=\"_blank\" title=\"Use this code
-  to invite your
-  friends!\">https://brekkywrap.com/?rh_ref={{subscriber.rh_code}}</a></p>
+  to invite your friends!\">{{subscriber.rh_reflink}}</a></p>
 
   </td>\r
 
@@ -136,8 +133,8 @@ promo2: "                            <tr>\r
   <td align=\"center\"><a
   href=\"mailto:?subject=Check%20this%20out&amp;body=I%27ve%20been%20reading%20\
   this%20excellent%20free%20daily%20newsletter%2C%20you%20should%20subscribe%20\
-  as%20well!%0A%0Ahttps%3A%2F%2Fbrekkywrap.com%2F%3Frh_ref%3D{{subscriber.rh_co\
-  de}}%2F%3Futm_source%3Demail\" target=\"_blank\" style=\"font-size: 14px;
+  as%20well!%0A%0Ahttps%3A%2F%2Fjoin.brekkywrap.com%2F{{subscriber.rh_code}}%2F\
+  %3Futm_source%3Demail\" target=\"_blank\" style=\"font-size: 14px;
   font-family: Helvetica, Arial, sans-serif; font-weight: normal; color:
   #ffffff; text-decoration: none; background-color: #234688; border-top: 15px
   solid #234688; border-bottom: 15px solid #234688; border-left: 25px solid
