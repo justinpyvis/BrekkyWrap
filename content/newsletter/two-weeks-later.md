@@ -11,7 +11,7 @@ intro: >-
   review](https://statements.qld.gov.au/statements/94500) into culture and
   accountability in the state government has been
   [undermined](https://www.examiner.com.au/story/7625665/qld-premier-defends-donor-leading-probe/?cs=12)
-  by an alleged conflict of interest. 
+  by an alleged conflict of interest.
 
 
   It turns out that Professor Peter Coaldrake, who will lead the review, "paid $1760 for a table for the Queensland Performing Arts Centre board at a Queensland Labor post-budget lunch" back in 2018.
@@ -20,7 +20,7 @@ intro: >-
   As far as conflicts go that certainly seems pretty minor. But given that the review is supposed to be investigating hot topics such as "ethical decision-making and impartial advice" and the "adequacy of systems to prevent ethical, accountability and integrity issues arising", surely the government could have found someone who hadn't donated to their political party? 🤷‍♂️
 marketcommentary: >-
   The **ASX200** dropped -1.02% on Friday, finishing off a topsy-turvy week
-  marked by tensions between Western nations, Ukraine and Russia. 
+  marked by tensions between Western nations, Ukraine and Russia.
 
 
   The **US S&P500** closed down -0.72% for similar reasons. But it wasn't just turmoil in the Eastern Bloc that rattled markets – there was also ongoing speculation about the Federal Reserve's next move, with St. Louis Federal Reserve President James Bullard [stating publicly](https://www.thestreet.com/markets/fed-president-bullard-repeats-1-rate-hike-need-to-tame-inflation) that "inflation is broadening and possibly accelerating in the US economy so I shaded up my position to show that I think we need 100 basis points of tightening by July 1".
@@ -68,7 +68,7 @@ stillhungry: >-
   ⚡ The Australian Defence Force (ADF) [accused China's navy](https://www.stuff.co.nz/world/australia/300521969/australia-condemns-china-warship-for-firing-laser-at-its-patrol-plane) of directing a military-grade laser at one of its surveillance aircraft while in flight over Australia's northern approaches, which "could have endangered the safety and lives of the ADF personnel."
 
 
-  🏘️ Anyone else spot the circular reasoning here? The Victorian government is going to make it more expensive to build more affordable, high-density housing with [a new levy](https://www.9news.com.au/national/social-housing-victoria-development-levy-proposed-to-pay-for-new-social-housing/3f4bc30e-5108-4f5d-a18c-af4d2a26dd3e) on "the market value of any new build with three or more dwellings or three or more lot subdivisions", so that it can build more social housing, because housing is so expensive... 
+  🏘️ Anyone else spot the circular reasoning here? The Victorian government is going to make it more expensive to build more affordable, high-density housing with [a new levy](https://www.9news.com.au/national/social-housing-victoria-development-levy-proposed-to-pay-for-new-social-housing/3f4bc30e-5108-4f5d-a18c-af4d2a26dd3e) on "the market value of any new build with three or more dwellings or three or more lot subdivisions", so that it can build more social housing, because housing is so expensive...
 
 
   🔬 A [randomised trial](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2789362) of 490 high-risk patients with mild-to-moderate COVID-19 found that "a 5-day course of oral ivermectin administered during the first week of illness did not reduce the risk of developing severe disease".
@@ -95,7 +95,7 @@ stillhungry: >-
   👑 The 95-year-old Queen [has contracted](https://www.bbc.com/news/uk-60453566) COVID-19 and is experiencing "mild cold-like symptoms".
 nowordsneeded:
   link: https://twitter.com/10NewsFirst/status/1494873778056474624
-  nowordsneeded: /images/scomo-welding-feb-22.gif
+  nowordsimg: /images/scomo-welding-feb-22.gif
   description: "@10NewsFirst/Twitter"
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
@@ -125,7 +125,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  line-height:normal'><span
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;\r
 
-  \ 
+  \
   mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>D\
   aily\r
 
@@ -159,11 +159,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>71.\
   9</span></p>\r
 
@@ -174,11 +174,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>0.0\
   %</span></p>\r
 
@@ -213,11 +213,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4.5\
   5</span></p>\r
 
@@ -228,11 +228,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.2%</span></p>\r
 
@@ -267,11 +267,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>2.1\
   8</span></p>\r
 
@@ -282,11 +282,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.4%</span></p>\r
 
@@ -321,11 +321,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1.9\
   3</span></p>\r
 
@@ -336,11 +336,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   2.0%</span></p>\r
 
@@ -375,11 +375,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>7,2\
   22</span></p>\r
 
@@ -390,11 +390,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   1.0%</span></p>\r
 
@@ -429,11 +429,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>4,3\
   49</span></p>\r
 
@@ -444,11 +444,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.7%</span></p>\r
 
@@ -484,11 +484,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>93.\
   7</span></p>\r
 
@@ -499,11 +499,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.2%</span></p>\r
 
@@ -538,11 +538,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>1,9\
   01</span></p>\r
 
@@ -553,11 +553,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.1%</span></p>\r
 
@@ -583,7 +583,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
 
-  \ 
+  \
   color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>\r
 
   \  </td>\r
@@ -593,11 +593,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>133\
   .5</span></span></p>\r
 
@@ -608,11 +608,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   1.4%</span></p>\r
 
@@ -647,11 +647,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>38,\
   324</span></p>\r
 
@@ -662,11 +662,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   4.5%</span></p>\r
 
@@ -701,11 +701,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:black'>2,6\
   31</span></p>\r
 
@@ -716,11 +716,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   4.8%</span></p>\r
 
@@ -745,7 +745,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span\r
 
-  \ 
+  \
   style='font-size:9.0pt;font-family:\"Helvetica\",sans-serif;mso-fareast-font-\
   family:\r
 

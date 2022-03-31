@@ -104,7 +104,7 @@ stillhungry: >-
 nowordsneeded:
   link: https://twitter.com/GermanEmbassySA/status/1500032894261211138
   description: "@GermanEmbassySA/Twitter"
-  nowordsneeded: /images/russia-rsa-germany.jpg
+  nowordsimg: /images/russia-rsa-germany.jpg
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
 

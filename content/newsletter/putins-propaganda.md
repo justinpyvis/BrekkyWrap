@@ -99,7 +99,7 @@ stillhungry: >-
 
   💉 A new pre-print study [found that](https://www.sbs.com.au/news/article/pfizers-covid-19-vaccine-less-effective-in-children-aged-five-to-11-us-study-suggests/pxjvqdy4o) the Pfizer vaccine's efficacy against infection among children aged 5-11 (who receive a smaller dose) fell to just 12% after around a month. Its effectiveness against hospitalisation fell to 48% from 100% over the same period.
 nowordsneeded:
-  nowordsneeded: /images/brisabane-floods-03-22.png
+  nowordsimg: /images/brisabane-floods-03-22.png
   link: https://www.reddit.com/r/australia/comments/t38xee/just_north_of_brisbane_name_a_more_ironic_sign/
   description: "@PingaDick/Reddit"
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0

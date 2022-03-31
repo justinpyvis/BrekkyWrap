@@ -86,7 +86,7 @@ stillhungry: >-
 
   🤑 "A rare moment of bipartisanship in a divided America": politicians support [stock-trading for politicians](https://www.theguardian.com/us-news/2022/feb/22/us-politicians-trading-stocks-bipartisan-idea).
 nowordsneeded:
-  nowordsneeded: /images/russia-exports-gas-europe-2020w.png
+  nowordsimg: /images/russia-exports-gas-europe-2020w.png
   description: New York Times
   link: https://www.nytimes.com/interactive/2022/world/europe/ukraine-maps.html
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0

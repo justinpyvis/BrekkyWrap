@@ -118,7 +118,7 @@ stillhungry: >-
   🦗 Catch of the year? New Zealand's Will Young [took a screamer](https://twitter.com/TheCricketGeek/status/1498085849115811848) on the boundary to dismiss South Africa's Jansen.
 nowordsneeded:
   link: https://twitter.com/mmcintire/status/1498137121290395649
-  nowordsneeded: /images/putin-bizzare-distancing-feb-22.jpg
+  nowordsimg: /images/putin-bizzare-distancing-feb-22.jpg
   description: "@mmcintire/Twitter"
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r

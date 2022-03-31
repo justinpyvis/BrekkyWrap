@@ -92,7 +92,7 @@ stillhungry: >-
 nowordsneeded:
   link: https://www.theguardian.com/australia-news/ng-interactive/2022/mar/03/flood-map-nsw-qld-queensland-rain-chart-maps-brisbane-lismore-gympie-floods-weather-emergency-australia-east-coast
   description: The Guardian/BOM
-  nowordsneeded: /images/east-coast-flooding-3-3-22.png
+  nowordsimg: /images/east-coast-flooding-3-3-22.png
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
 

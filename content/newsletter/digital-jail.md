@@ -86,7 +86,7 @@ stillhungry: >-
 nowordsneeded:
   link: http://www.garthtoons.com/
   description: GarthToons
-  nowordsneeded: /images/putin-consequences-cartoon.jpeg
+  nowordsimg: /images/putin-consequences-cartoon.jpeg
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
 

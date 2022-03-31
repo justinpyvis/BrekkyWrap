@@ -97,7 +97,7 @@ stillhungry: >-
 nowordsneeded:
   link: https://twitter.com/justintrudeau/status/1245139169934016517
   description: "@justintrudeau/Twitter"
-  nowordsneeded: /images/trudeau-truckers-apr-2020.png
+  nowordsimg: /images/trudeau-truckers-apr-2020.png
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
 

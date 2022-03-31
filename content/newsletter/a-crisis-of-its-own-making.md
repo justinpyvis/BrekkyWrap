@@ -105,7 +105,7 @@ stillhungry: >-
   ⚽ Chelsea owner Roman Abramovich [confirmed](https://www.foxsports.com.au/football/premier-league/teams/chelsea/roman-abramovich-selling-chelsea-premier-league-2022-russia-invasion-of-ukraine-epl-2022-news-update-latest-new-owner/news-story/fd24b0f8e76c602c215f1d35c7be8599) he will sell the Premier League club for £3 billion, writing off loans to the club worth £1.5 billion in the process, with all profits from the sale to go to victims in Ukraine.
 nowordsneeded:
   link: https://www.reddit.com/r/australia/comments/t44gdg/how_high_were_the_flood_waters_in_gympie/
-  nowordsneeded: /images/gympie-flood-levels-03-22.png
+  nowordsimg: /images/gympie-flood-levels-03-22.png
   description: "@anonymous_DoDoBeDoDo/Reddit"
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r

@@ -100,7 +100,7 @@ stillhungry: >-
 
   📉 "A career-low [37% of Americans](https://twitter.com/ABCPolitics/status/1497800224051499009) approve of President Biden's job performance, with 55% disapproving."
 nowordsneeded:
-  nowordsneeded: /images/zelensky-reddit-asylum.png
+  nowordsimg: /images/zelensky-reddit-asylum.png
   link: https://www.reddit.com/r/BeAmazed/comments/t1wmau/president_of_ukraine_volodymyr_zelensky_rejects/
   description: "@regian24/Reddit"
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0

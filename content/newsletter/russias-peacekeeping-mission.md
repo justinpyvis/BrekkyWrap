@@ -86,7 +86,7 @@ stillhungry: >-
 nowordsneeded:
   link: https://twitter.com/solartrailar/status/1495765007136661507
   description: "@solartrailar/Twitter"
-  nowordsneeded: /images/trump-truth-social-logo.png
+  nowordsimg: /images/trump-truth-social-logo.png
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
 

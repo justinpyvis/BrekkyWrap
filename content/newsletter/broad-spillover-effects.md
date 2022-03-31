@@ -97,7 +97,7 @@ stillhungry: >-
 nowordsneeded:
   link: https://twitter.com/ttrandahl/status/1500729277985144833
   description: "@ttrandahl/Twitter"
-  nowordsneeded: /images/petrol-price-us-mar-22.png
+  nowordsimg: /images/petrol-price-us-mar-22.png
   nowordsimg: /images/petrol-price-us-mar-22.png
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
