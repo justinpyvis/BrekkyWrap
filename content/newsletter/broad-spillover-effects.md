@@ -69,7 +69,7 @@ stillhungry: >-
   👩‍💼 Australian [business confidence and conditions](https://business.nab.com.au/monthly-business-survey-february-2022-51988/) "strengthened in February as the Omicron virus wave eased and the late 2021 momentum was regained", and are now above the long-run average. The survey suggests that "cost pressures are increasingly being passed on to consumers".
 
 
-  ❌ The Australian government [imposed sanctions](https://www.foreignminister.gov.au/minister/marise-payne/media-release/further-sanctions-russia) on "an additional six senior Russian military commanders... \[and] 10 people of strategic interest to Russia", for being "propagandists and purveyors of disinformation, who are trying to legitimatise Russia's unprovoked, unjustified invasion with false narratives such as the 'de-Nazification' of Ukraine". 
+  ❌ The Australian government [imposed sanctions](https://www.foreignminister.gov.au/minister/marise-payne/media-release/further-sanctions-russia) on "an additional six senior Russian military commanders... \[and] 10 people of strategic interest to Russia", for being "propagandists and purveyors of disinformation, who are trying to legitimatise Russia's unprovoked, unjustified invasion with false narratives such as the 'de-Nazification' of Ukraine".
 
 
   💰 The World Bank [approved](https://www.bbc.com/news/business-60657127) $US723 million in loans and grants for Ukraine and is working on another $US3 billion package.
@@ -97,7 +97,6 @@ stillhungry: >-
 nowordsneeded:
   link: https://twitter.com/ttrandahl/status/1500729277985144833
   description: "@ttrandahl/Twitter"
-  nowordsimg: /images/petrol-price-us-mar-22.png
   nowordsimg: /images/petrol-price-us-mar-22.png
 markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   width=\"100%\"\r
@@ -127,7 +126,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  line-height:normal'><span
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;\r
 
-  \ 
+  \
   mso-fareast-font-family:Helvetica;color:#333333;mso-fareast-language:EN-AU'>D\
   aily\r
 
@@ -161,11 +160,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>7\
   2.8</span></p>\r
 
@@ -176,11 +175,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.5%</span></p>\r
 
@@ -215,11 +214,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>4\
   .60</span></p>\r
 
@@ -230,11 +229,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.6%</span></p>\r
 
@@ -269,11 +268,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>2\
   .32</span></p>\r
 
@@ -284,11 +283,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   5.6%</span></p>\r
 
@@ -323,11 +322,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>1\
   .87</span></p>\r
 
@@ -338,11 +337,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   6.9%</span></p>\r
 
@@ -377,11 +376,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>6\
   ,980</span></p>\r
 
@@ -392,11 +391,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.8%</span></p>\r
 
@@ -431,11 +430,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>4\
   ,198</span></p>\r
 
@@ -446,11 +445,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#C00000'>-\
   0.1%</span></p>\r
 
@@ -486,11 +485,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>1\
   28.4</span></p>\r
 
@@ -501,11 +500,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   4.2%</span></p>\r
 
@@ -540,11 +539,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>2\
   ,051</span></p>\r
 
@@ -555,11 +554,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   2.9%</span></p>\r
 
@@ -585,7 +584,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  font-family:\"Helvetica\",sans-serif;mso-fareast-font-family:Helvetica;\r
 
-  \ 
+  \
   color:#333333;mso-fareast-language:EN-AU'>Iron&nbsp;ore&nbsp;(t)</span></p>\r
 
   \  </td>\r
@@ -595,11 +594,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>1\
   66.4</span></span></p>\r
 
@@ -610,11 +609,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   0.3%</span></p>\r
 
@@ -649,11 +648,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>3\
   8,689</span></p>\r
 
@@ -664,11 +663,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   1.6%</span></p>\r
 
@@ -703,11 +702,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#333333'>2\
   ,574</span></p>\r
 
@@ -718,11 +717,11 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
   \  <p class=MsoNormal align=right
   style='margin-top:2.0pt;margin-right:0cm;\r
 
-  \ 
+  \
   margin-bottom:2.0pt;margin-left:0cm;text-align:right;line-height:normal'><span\
   \r
 
-  \ 
+  \
   style='font-size:13.0pt;font-family:\"Helvetica\",sans-serif;color:#00B050'>+\
   3.1%</span></p>\r
 
@@ -747,7 +746,7 @@ markets: "<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
 
   \  <p class=MsoNormal style='margin-top:1.5pt;line-height:normal'><i><span\r
 
-  \ 
+  \
   style='font-size:9.0pt;font-family:\"Helvetica\",sans-serif;mso-fareast-font-\
   family:\r
 
@@ -914,7 +913,7 @@ promo2: "                            <tr>\r
 ---
 What do Russia, Lebanon and Venezuela have in common? All three have at some point seen their sovereign debt fall to the point where it's almost worthless, with Russia (and Belarus) the latest where "a default as the most likely scenario".
 
-That's according to [Morgan Stanley](https://www.bloomberg.com/news/articles/2022-03-07/morgan-stanley-sees-russia-set-for-venezuela-style-debt-default), which notes that a default is "unlikely to be like a normal one, with Venezuela instead perhaps the most relevant comparison". 
+That's according to [Morgan Stanley](https://www.bloomberg.com/news/articles/2022-03-07/morgan-stanley-sees-russia-set-for-venezuela-style-debt-default), which notes that a default is "unlikely to be like a normal one, with Venezuela instead perhaps the most relevant comparison".
 
 Oil-rich Venezuela defaulted on its debt four years ago following the imposition of US sanctions.
 
@@ -922,6 +921,6 @@ Russia is almost certainly already in a deep recession and a default would only 
 
 The Russian crisis and surging commodity prices also increases the prospects of stagflation – slowing activity with rising inflation – across much of the world, raising "the prospects of significantly higher interest rates".
 
-Thankfully the world's central banks, including Australia's RBA, tightened monetary policy over the past year to nip the pandemic stimulus-driven inflation in the bud, slowing asset price growth and keeping some powder dry in the event of another crisis... 
+Thankfully the world's central banks, including Australia's RBA, tightened monetary policy over the past year to nip the pandemic stimulus-driven inflation in the bud, slowing asset price growth and keeping some powder dry in the event of another crisis...
 
 Oh wait. 🙊
