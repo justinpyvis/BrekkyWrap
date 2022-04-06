@@ -65,7 +65,7 @@ stillhungry: >-
   🤝 Finland's President [said following recent polling](https://www.euractiv.com/section/politics/short_news/finnish-president-says-nato-referendum-no-longer-necessary/) there is now "sufficient evidence" for the country to join NATO without seeking a referendum.
 
 
-  👴 A Chinese pensioner has [lived in Beijing's airport for 14 years](https://www.gulftoday.ae/lifestyle/2022/03/28/chinese-man-has-been-living-at-beijing-airport-for-14-years) because his family hold him he "had to stop smoking and drinking".
+  👴 A Chinese pensioner has [lived in Beijing's airport for 14 years](https://www.gulftoday.ae/lifestyle/2022/03/28/chinese-man-has-been-living-at-beijing-airport-for-14-years) because his family told him he "had to stop smoking and drinking".
 
 
   👨‍✈️ A British Airways pilot [was jailed](https://www.businessinsider.com/british-airways-pilot-jailed-faked-resume-flying-experience-pressed-button-2022-4) for faking his credentials and flying as a pilot between April 2016 and March 2018, until he was found out when he pressed a button "no qualified pilot would".
