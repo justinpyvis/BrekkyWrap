@@ -29,7 +29,7 @@ marketcommentary: >-
   > "inflation is much too high and is subject to upside risks. The Committee is prepared to take stronger action if indicators of inflation and inflation expectations indicate that such action is warranted.... I expect the \[Fed's] balance sheet to shrink considerably more rapidly than in the previous recovery".
 
 
-  Locally, the **ASX200** edged up 0.19%, giving up earlier gains of as much as 0.8% after the Reserve Bank of Australia left rates on hold but changed its language to be slightly more hawkish, increasing the odds of a rate hike in the coming months (see *Food for thought* below for all the deets). The Aussie dollar immediately shot up half a cent on the news, closing at a 9-month high.
+  Locally, the **ASX200** edged up 0.19%, giving up earlier gains of as much as 0.8% after the Reserve Bank of Australia left rates on hold but changed its language to be slightly more hawkish, increasing the odds of a rate hike in the coming months (see *Food for thought* below for all the deets). The Aussie dollar immediately shot up half a cent on the news, reaching a 9-month high.
 
 
   A notable mover was Mineral Resources, which added 5.4% after [it announced](https://www2.asx.com.au/markets/company/min) that it will soon raise production at its Wodgina and Mt Marion spodumene lithium mines following "unprecedented" demand.
