@@ -47,7 +47,7 @@ stillhungry: >-
   👎 Ratings agency S&P [downgraded](https://abcnews.go.com/Business/wireStory/sp-downgrade-russia-headed-historic-default-83981417) Russia's debt to "selective default", indicating an expectation that it will default on some of its obligations. A default on foreign debt would be Russia's first since the Bolshevik Revolution in 1917.
 
 
-  🍁 Canada's unemployment rate [dropped to 5.3%](https://globalnews.ca/news/8745528/statistics-canada-march-unemployment-rate-job-numbers/) in March, the lowest since modern records began in 1976. Average hourly wages increase to 3.4% annually, below pre-pandemic levels and negative in real terms (inflation was 5.7% in February.
+  🍁 Canada's unemployment rate [dropped to 5.3%](https://globalnews.ca/news/8745528/statistics-canada-march-unemployment-rate-job-numbers/) in March, the lowest since modern records began in 1976. Average hourly wages increase to 3.4% annually, below pre-pandemic levels and negative in real terms (inflation was 5.7% in February).
 
 
   🤝 UK PM Boris Johnson [travelled to Kyiv](https://www.bbc.com/news/uk-61052643) to meet President Zelensky in person, walking the streets "in a show of solidarity with the Ukrainian people".
