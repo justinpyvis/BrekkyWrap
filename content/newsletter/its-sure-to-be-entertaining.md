@@ -75,7 +75,7 @@ stillhungry: >-
   ✈️ [One person](https://www.independent.ie/irish-news/news/dublin-airport-got-12272-noise-complaints-last-year-from-just-one-person-41560228.html) "lodged 12,272 complaints during 2021... \[accounting] for 90% of complaints received by the airport operator about noise from aircraft taking off and landing at Dublin."
 
 
-  ☢️ "Turning all the German nuclear reactors back on [could approximately](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear) stop gas imports from Russia. Shutting the remaining ones down could increase the dependency on Russian gas by about 30%
+  ☢️ "Turning all the German nuclear reactors back on [could approximately](https://unchartedterritories.tomaspueyo.com/p/why-germany-wont-keep-its-nuclear) stop gas imports from Russia. Shutting the remaining ones down could increase the dependency on Russian gas by about 30%."
 
 
   💸 "Man [who paid](https://www.theguardian.com/technology/2022/apr/14/twitter-nft-jack-dorsey-sina-estavi) $2.9m for NFT of Jack Dorsey's first tweet set to lose almost $2.9m."
@@ -843,7 +843,7 @@ promo2: "                            <tr>\r
 
   \                            </tr>"
 ---
-The social media chatter over the long weekend was all about Elon Musk (what a surprise!), after he [made an offer](https://www.cnbc.com/2022/04/14/elon-musk-offers-to-buy-twitter-for-54point20-a-share-saying-it-needs-to-be-transformed-as-private-company.html) to buy social media platform Twitter for $US54.20 a share, a 38% premium to the share price on 1 April and a valuation of $US43.4 billion.
+The social media chatter over the long weekend was all about Elon Musk (what a surprise!), after he [made an offer](https://www.cnbc.com/2022/04/14/elon-musk-offers-to-buy-twitter-for-54point20-a-share-saying-it-needs-to-be-transformed-as-private-company.html) to buy social media platform Twitter for $US54.20 a share, a 38% premium to the share price on 1 April with a valuation of $US43.4 billion.
 
 Musk currently owns 9.2% of Twitter and last week declined an offer to join the board, which would have prevented him from acquiring more than 14.9% of the company.
 
