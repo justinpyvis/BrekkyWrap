@@ -22,7 +22,7 @@ intro: >-
   * undergo daily rapid antigen tests.
 
 
-  Victoria's government made a [similar change](https://www.premier.vic.gov.au/high-vax-rate-means-most-restrictions-can-safely-ease) effective from 11:59pm on Friday, with the close contact isolation requirement replaced by five rapid antigen tests over a seven day period. Victoria also also abolished its vaccine passport, check-in requirements and removed its mask mandate in primary schools, hospitality and retail settings.
+  Victoria's government made a [similar change](https://www.premier.vic.gov.au/high-vax-rate-means-most-restrictions-can-safely-ease) effective from 11:59pm on Friday, with the close contact isolation requirement replaced by five rapid antigen tests over a seven day period. Victoria also abolished its vaccine passport, check-in requirements and removed its mask mandate in primary schools, hospitality and retail settings.
 
 
   Fewer restrictions mean fewer reasons for state politicians to pop up in our newsfeed, which can only be a good thing!
