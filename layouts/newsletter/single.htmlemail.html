@@ -189,7 +189,7 @@
                                         <!-- Intro -->
                                         <tr>
                                             <td align="left" style="padding: 20px 0 0 0; font-size: 16px; line-height: 25px; font-family: Helvetica, Arial, sans-serif; color: #333333;" class="padding-copy-text">
-                                            {{ .Params.intro | markdownify }}{{ if not .Params.introimage.introimg }}<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 20px 0;">{{ end }}</td>
+                                            {{ .Params.intro | markdownify }}{{ if and (not .Params.introimage.introimg) (.Params.promo1)  }}<hr style="width:100%;border:none;background:#dcdcdc;height:1px;margin:20px 0 20px 0;">{{ end }}</td>
                                         </tr>
                                         {{ if .Params.introimage.introimg }}<tr>
                                             <td>
