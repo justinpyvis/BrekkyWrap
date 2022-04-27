@@ -1,6 +1,6 @@
 ---
 title: We have lift-off 🚀
-date: 2022-04-27T20:30:08.945Z
+date: 2022-04-27T20:35:25.043Z
 description: Inflation in Australia hit a 21-year high; China's internal
   bickering; the EU doesn't want free speech on Twitter; and the BOM warned of
   more wet weather this winter.
@@ -30,7 +30,7 @@ intro: >-
 marketcommentary: >-
   The **US S&P500** edged higher overnight, adding 0.21% after [the likes
   of](https://www.cnbc.com/2022/04/27/stocks-making-the-biggest-moves-midday-microsoft-visa-enphase-energy-boeing-and-more.html)
-  Microsoft (+4.81%) and Visa (+6.47%) reported strong quarterly reports with
+  Microsoft (+4.81%) and Visa (+6.47%) reported solid quarterly reports with
   stronger than expected forward guidance. 
 
 
