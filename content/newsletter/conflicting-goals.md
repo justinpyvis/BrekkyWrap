@@ -9,7 +9,7 @@ intro: >-
   Good morning! Labor outlined its plan to fix housing on Sunday, unveiling a
   '[Help to
   Buy](https://www.news.com.au/finance/real-estate/buying/labor-says-its-new-homebuying-scheme-could-save-aussies-up-to-380000-on-their-mortgage/news-story/1e235323506b12d5a790fc317d71a312)'
-  scheme, under which the government will contribute up to 40% the price towards
+  scheme under which the government will contribute up to 40% the price towards
   a house for those with a taxable incomes of up to $90,000 for individuals and
   $120,000 for couples.
 
