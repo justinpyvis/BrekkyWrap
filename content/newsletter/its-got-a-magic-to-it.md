@@ -1,7 +1,9 @@
 ---
 title: Its got a magic to it
-date: 2022-05-02T20:40:29.958Z
-description: Must have between 50 and 250 characters in the description.
+date: 2022-05-02T20:45:43.739Z
+description: Investment legends Buffett and Munger are no fans of crypto; will
+  the RBA hike rates today; and APRA data show more than a quarter million
+  Aussies are vulnerable to rate ries.
 author: justin
 intro: >-
   Good morning! Today's the day – will the Reserve Bank of Australia (RBA)
