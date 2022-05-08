@@ -88,7 +88,7 @@ stillhungry: >-
   🗻 Kami Rita, a 52-year-old Nepalese Sherpa, successfully [scaled Mount Everest](https://www.scmp.com/news/asia/south-asia/article/3176938/nepals-kami-rita-breaks-his-own-record-scaling-mount-everest) for a record 26th time.
 
 
-  🍆 [Democracy](https://www.abc.net.au/news/2022-05-08/john-lee-endorsed-as-next-hong-kong-chief-executive/101048040): Former police officer and Beijing loyalist John Lee will become the new Chief Executive of Hong Kong after "a committee stacked with pro-Beijing loyalists... \[granted] him the majority required".
+  🍆 [Democracy](https://www.abc.net.au/news/2022-05-08/john-lee-endorsed-as-next-hong-kong-chief-executive/101048040): Former police officer and Beijing supporter John Lee will become the new Chief Executive of Hong Kong after "a committee stacked with pro-Beijing loyalists... \[granted] him the majority required".
 nowordsneeded:
   link: https://twitter.com/AvidCommentator/status/1522070105794150405
   description: "@AvidCommentator/Twitter"
