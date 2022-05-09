@@ -892,7 +892,7 @@ promo2: "                            <tr>\r
 
   \                            </tr>"
 ---
-Just how rotten is the United Nations (UN)? If this [NYT article](https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html) (paywall removed [here](https://archive.ph/Z4n2a)) is even remotely indicative of how the wider organisation operates, extremely:
+Just how rotten is the United Nations (UN)? If this [NYT article](https://www.nytimes.com/2022/05/07/world/americas/un-loan-project-services.html) is even remotely indicative of how the wider organisation operates, extremely:
 
 > "At the United Nations, two officials had a problem. The little-known agency they ran found itself with an extra $61 million, and they didn't know what to do with it. 
 >
