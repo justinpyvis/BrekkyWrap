@@ -1,6 +1,6 @@
 ---
 title: Hopelessly unproductive works
-date: 2022-05-12T20:33:31.010Z
+date: 2022-05-12T20:45:04.662Z
 description: Has inflation already peaked; will the election in the Philippines
   affect the Pacific; Aussies don't trust ScoMo or Albo; and party's over as
   Kiwi house sales and prices plunge.
@@ -928,9 +928,9 @@ Has inflation already peaked? In the US, April's headline [consumer price index]
 
 There's a lot to disentangle in those figures. The headline rate fell largely because energy prices eased, a feat that may not be sustained in future months. The largest contributors to core inflation were services and shelter, the latter of which is measured with a considerable lag of around 12-15 months. 
 
-In other words, just as the the official inflation data were suppressed last year by various government programmes and the lags in housing inflation and wage negotiations, they may be held up this year as those effects reverse even if inflation has already peaked.
+In other words, just as the the official inflation data were suppressed last year by various government programmes and the lags in housing inflation and wage negotiations, they may be held up this year as those effects work in reverse, even if the underlying cause of the current wave of inflation – excessive growth in the money supply – has already peaked.
 
-And there's evidence that inflation might subside sooner than later, with growth in broad money aggregates such as M2 already [decelerating](https://fred.stlouisfed.org/series/M2SL#0) to levels less consistent with persistent, above-average inflation – ignoring economic growth and changes in velocity, rapid growth in the money supply needs to be [sustained](https://www.researchgate.net/publication/5018591_Inflation_and_Money_Growth_-_Evidence_from_a_Multi-Country_Data-Set) to generate "greater inflation even if that country is a low inflation country".
+And there's evidence that inflation might subside sooner than later, with growth in broad money aggregates such as M2 already [decelerating](https://fred.stlouisfed.org/series/M2SL#0) to levels less consistent with persistent, above-average inflation – ignoring economic growth and changes in velocity, above-average growth in the money supply needs to be [sustained](https://www.researchgate.net/publication/5018591_Inflation_and_Money_Growth_-_Evidence_from_a_Multi-Country_Data-Set) to generate "greater inflation even if that country is a low inflation country".
 
 That poses a challenge for policymakers. Central banks around the world eased monetary policy on an unprecedented scale following the outbreak of the pandemic but then failed to reign it back in when it became clear that level of stimulus was not warranted, preferring to [](https://www.researchgate.net/publication/5018591_Inflation_and_Money_Growth_-_Evidence_from_a_Multi-Country_Data-Set)believe that it was all just "transitory".
 
