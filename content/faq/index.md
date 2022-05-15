@@ -14,7 +14,7 @@ summary: faq
 <p>That's easy – simply enter your email in the box on our <a href="https://brekkywrap.com">home page</a>, click the yellow "Subscribe" button and we'll take care of the rest.</p>
 
 <h3>Q: How often do you publish?</h3>
-<p>Every Monday to Friday. The exact delivery time varies by season due to daylight savings but we aim to publish every Wrap before 5:00am Australian Western Standard Time.</p>
+<p>Every Monday to Friday. The exact delivery time varies by season due to daylight savings but we aim to publish every Wrap before 5:30am Australian Western Standard Time.</p>
 
 <p>We do not publish on Australian public holidays and usually take a few weeks off every year, which we'll broadcast well in advance on this page. During quiet times the size of the Wrap may be reduced, although we've yet to encounter any of those!</p>
 
