@@ -19,7 +19,7 @@ intro: >-
   While ScoMo [claimed](https://www.canberratimes.com.au/story/7739545/unlocking-super-will-have-marginal-impact-on-house-prices-morrison/) the overall effect would be "quite marginal" when considered along with his [Home Builder stimulus](https://treasury.gov.au/coronavirus/homebuilder) package (which finished in April 2021), his Minister for Superannuation Jane Hume [conceded](https://www.abc.net.au/news/2022-05-16/coalition-superannuation-housing-policy-reaction/101068810) that it "will probably bring forward some of their decisions to buy a house earlier and for that reason it will probably push prices temporarily".
 
 
-  There are two issues at play here. The first is compulsory superannuation: is it one of the [three pillars](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/0910/ChronSuperannuation) of Australia's retirement income system, or is it a pool of savings that individuals should be able to consume on whatever is politically in favour (housing is a durable consumption good)? 
+  There are two issues at play here. The first is compulsory superannuation: is it one of the [three pillars](https://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/0910/ChronSuperannuation) of Australia's retirement income system, or is it a pool of savings that individuals should be able to consume on whatever is politically in favour (housing is a durable consumer good)? 
 
 
   It can't be both things. If a house is an acceptable use for superannuation then why not a car to get to work, a new washing machine, or any other durable good people might struggle to afford? 
