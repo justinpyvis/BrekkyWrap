@@ -1,6 +1,6 @@
 ---
 title: European theatre
-date: 2022-06-01T03:02:53.087Z
+date: 2022-05-31T21:02:53.087Z
 description: More lightweight EU sanctions; Aussie consumer confidence unchanged
   after the election; building approvals down, housing credit and mining profits
   up; and the NDIS was hacked.
