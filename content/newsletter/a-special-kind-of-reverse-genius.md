@@ -1,6 +1,6 @@
 ---
 title: A special kind of reverse genius
-date: 2022-06-06T21:10:07.677Z
+date: 2022-06-06T21:04:10.752Z
 description: Australia has an abundance of energy and an energy crisis;
   bankruptcies set to rise after "a false dawn"; Elon Musk has been busy
   pretending to work; and Albo visits Indonesia.
