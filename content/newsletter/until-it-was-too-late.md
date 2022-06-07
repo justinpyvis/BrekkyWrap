@@ -927,7 +927,7 @@ promo2: "                            <tr>\r
 
   \                            </tr>"
 ---
-**How it all went so wrong**: The Washington Post [provided](https://www.washingtonpost.com/us-policy/2022/05/31/inflation-economy-timeline/) a good timeline of how US policymakers "misjudged inflation threat until it was too late" ([paywall removed here](https://archive.ph/dHjFQ)). A snippet:
+**How it all went so wrong**: The Washington Post [provided](https://www.washingtonpost.com/us-policy/2022/05/31/inflation-economy-timeline/) a good timeline of how US policymakers "misjudged inflation threat until it was too late". A snippet:
 
 > February 2021: Biden is talking about injecting nearly $2 trillion in new federal spending into the faltering economy, even as some question the total, coming so soon after previous stimulus efforts, citing the risk of inflation.
 >
